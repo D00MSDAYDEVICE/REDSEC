@@ -7704,6 +7704,108 @@
     },
     {
       "type": "Feature",
+      "id": "crate-armory-338",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.062012,
+          -60.152442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-339",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.564453,
+          -25.76032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-340",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.97998,
+          -51.57707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-341",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.483887,
+          -52.589701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-342",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.669434,
+          -52.415823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-343",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.373535,
+          -51.399206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "crate-class-01",
       "properties": {
         "category": "crate",
@@ -9404,6 +9506,40 @@
     },
     {
       "type": "Feature",
+      "id": "crate-class-101",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.696289,
+          -26.549223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-102",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.755859,
+          -29.745302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "crate-tactical-01",
       "properties": {
         "category": "crate",
@@ -10640,6 +10776,23 @@
         "coordinates": [
           95.888672,
           -64.538996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-74",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.218262,
+          -52.736292
         ]
       }
     },
@@ -12748,6 +12901,23 @@
         "coordinates": [
           28.322754,
           -62.042138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-van-76",
+      "properties": {
+        "category": "stash",
+        "subtype": "van",
+        "name": "Police/Ambulance",
+        "icon": "van"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.850586,
+          -26.74561
         ]
       }
     },
@@ -16918,6 +17088,40 @@
     },
     {
       "type": "Feature",
+      "id": "other-intel-113",
+      "properties": {
+        "category": "utility",
+        "subtype": "intel",
+        "name": "Intel Case",
+        "icon": "intel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.896484,
+          -70.214875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "other-intel-114",
+      "properties": {
+        "category": "utility",
+        "subtype": "intel",
+        "name": "Intel Case",
+        "icon": "intel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.801758,
+          -66.160511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "stash-truck-01",
       "properties": {
         "category": "stash",
@@ -17321,6 +17525,754 @@
         "coordinates": [
           11.931152,
           -64.614459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-25",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.415527,
+          -75.247462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-26",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.084473,
+          -74.787379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-27",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.78418,
+          -75.710211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-28",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.123535,
+          -70.207436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-29",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.283691,
+          -77.22536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-30",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.769531,
+          -74.158088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-31",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.934082,
+          -69.877452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-32",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.666992,
+          -71.448163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-33",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.609375,
+          -70.51757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-34",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.510742,
+          -69.733334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-35",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.824219,
+          -56.084298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-36",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.675781,
+          -48.821333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-37",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.441406,
+          -26.588527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-38",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.485352,
+          -39.164141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-39",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.164062,
+          -43.117024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-40",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.350586,
+          -46.905246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-41",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.921387,
+          -50.373496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-42",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.081543,
+          -49.510944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-43",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.648926,
+          -43.612217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-44",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.262695,
+          -33.92513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-45",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.501953,
+          -40.613952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-46",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.864746,
+          -46.875213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-47",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.73877,
+          -74.360753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-48",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.869629,
+          -74.508155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-49",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.1875,
+          -74.821934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-50",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.007324,
+          -42.032974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-51",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          156.225586,
+          -51.808615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-52",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.27832,
+          -62.724533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-53",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.422852,
+          -27.722436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-54",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.47168,
+          -62.155241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-55",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.263672,
+          -24.046464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-56",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.891113,
+          -26.25401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-57",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.054199,
+          -31.989442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-58",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.547852,
+          -39.520992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-59",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.809082,
+          -45.79817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-60",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.304688,
+          -46.407564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-61",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.204102,
+          -51.069017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-62",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.05127,
+          -53.540307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-63",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          156.533203,
+          -56.24335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-64",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.631348,
+          -56.668302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-65",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.551758,
+          -73.609198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-66",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.101074,
+          -74.907988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-67",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.846191,
+          -74.885087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-68",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.865723,
+          -52.802761
         ]
       }
     },
@@ -17984,6 +18936,924 @@
         "coordinates": [
           -80.354004,
           -38.444985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-40",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.460938,
+          -77.07387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-41",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.937012,
+          -74.942276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-42",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.46875,
+          -72.938986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-43",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.838867,
+          -70.392606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-44",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.08252,
+          -71.691293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-45",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.520508,
+          -67.297497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-46",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.583984,
+          -63.927717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-47",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.900879,
+          -63.704722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-48",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.106934,
+          -68.487984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-49",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.544922,
+          -67.75108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-50",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.862793,
+          -67.28053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-51",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.678711,
+          -68.911005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-52",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.92334,
+          -61.980267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-53",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.120605,
+          -57.539417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-54",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.541992,
+          -53.813626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-55",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.52832,
+          -46.905246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-56",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.102051,
+          -43.213183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-57",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.806641,
+          -41.804078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-58",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.803223,
+          -38.272689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-59",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.350586,
+          -32.23139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-60",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.756348,
+          -41.95132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-61",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.382812,
+          -45.352145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-62",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.953613,
+          -47.872144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-63",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.753418,
+          -46.149394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-64",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.348633,
+          -57.052682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-65",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.873535,
+          -60.294299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-66",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.356934,
+          -23.382598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-67",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.837891,
+          -26.017298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-68",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.505859,
+          -24.307053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-69",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.791504,
+          -21.473518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-01",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.773926,
+          -81.357986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-02",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.294434,
+          -46.407564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-03",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.83252,
+          -48.385442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-04",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.605957,
+          -68.236823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-05",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.268555,
+          -72.269003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-06",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.780762,
+          -73.484732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-07",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.42627,
+          -72.984054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-08",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.331543,
+          -70.281704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-09",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.478516,
+          -77.99362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-10",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.646484,
+          -65.757706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-11",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.183594,
+          -63.898731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-12",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.415039,
+          -57.088515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-13",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.69043,
+          -54.965002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-14",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.760742,
+          -51.041394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-15",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.804688,
+          -32.990236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-16",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.908691,
+          -17.476432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-17",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.171875,
+          -38.942321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-18",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.982422,
+          -57.715885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-19",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.777344,
+          -52.549636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-20",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.549805,
+          -43.977005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-21",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.016113,
+          -67.007428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-22",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.368652,
+          -67.458082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-23",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.114746,
+          -71.074056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-24",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.60498,
+          -74.271655
         ]
       }
     },
