@@ -7704,12 +7704,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-01",
+      "id": "crate-class-01",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -7721,12 +7721,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-02",
+      "id": "crate-class-02",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -7738,12 +7738,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-03",
+      "id": "crate-class-03",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -7755,12 +7755,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-04",
+      "id": "crate-class-04",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -7772,12 +7772,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-05",
+      "id": "crate-class-05",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -7789,12 +7789,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-06",
+      "id": "crate-class-06",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -7806,12 +7806,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-07",
+      "id": "crate-class-07",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -7823,12 +7823,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-08",
+      "id": "crate-class-08",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -7840,12 +7840,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-09",
+      "id": "crate-class-09",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -7857,12 +7857,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-10",
+      "id": "crate-class-10",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -7874,12 +7874,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-11",
+      "id": "crate-class-11",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -7891,12 +7891,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-12",
+      "id": "crate-class-12",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -7908,12 +7908,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-13",
+      "id": "crate-class-13",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -7925,12 +7925,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-14",
+      "id": "crate-class-14",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -7942,12 +7942,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-15",
+      "id": "crate-class-15",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -7959,12 +7959,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-16",
+      "id": "crate-class-16",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -7976,12 +7976,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-17",
+      "id": "crate-class-17",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -7993,12 +7993,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-18",
+      "id": "crate-class-18",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8010,12 +8010,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-19",
+      "id": "crate-class-19",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8027,12 +8027,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-20",
+      "id": "crate-class-20",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8044,12 +8044,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-21",
+      "id": "crate-class-21",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8061,12 +8061,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-22",
+      "id": "crate-class-22",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8078,12 +8078,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-23",
+      "id": "crate-class-23",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8095,12 +8095,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-24",
+      "id": "crate-class-24",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8112,12 +8112,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-25",
+      "id": "crate-class-25",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8129,12 +8129,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-26",
+      "id": "crate-class-26",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8146,12 +8146,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-27",
+      "id": "crate-class-27",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8163,12 +8163,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-28",
+      "id": "crate-class-28",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8180,12 +8180,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-29",
+      "id": "crate-class-29",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8197,12 +8197,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-30",
+      "id": "crate-class-30",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8214,12 +8214,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-31",
+      "id": "crate-class-31",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8231,12 +8231,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-32",
+      "id": "crate-class-32",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8248,12 +8248,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-33",
+      "id": "crate-class-33",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8265,12 +8265,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-34",
+      "id": "crate-class-34",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8282,12 +8282,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-35",
+      "id": "crate-class-35",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8299,12 +8299,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-36",
+      "id": "crate-class-36",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8316,12 +8316,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-37",
+      "id": "crate-class-37",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8333,12 +8333,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-38",
+      "id": "crate-class-38",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8350,12 +8350,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-39",
+      "id": "crate-class-39",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8367,12 +8367,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-40",
+      "id": "crate-class-40",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8384,12 +8384,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-41",
+      "id": "crate-class-41",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8401,12 +8401,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-42",
+      "id": "crate-class-42",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8418,12 +8418,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-43",
+      "id": "crate-class-43",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8435,12 +8435,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-44",
+      "id": "crate-class-44",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8452,12 +8452,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-45",
+      "id": "crate-class-45",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8469,12 +8469,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-46",
+      "id": "crate-class-46",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8486,12 +8486,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-47",
+      "id": "crate-class-47",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8503,12 +8503,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-48",
+      "id": "crate-class-48",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8520,12 +8520,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-49",
+      "id": "crate-class-49",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8537,12 +8537,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-50",
+      "id": "crate-class-50",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8554,12 +8554,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-51",
+      "id": "crate-class-51",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8571,12 +8571,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-52",
+      "id": "crate-class-52",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8588,12 +8588,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-53",
+      "id": "crate-class-53",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8605,12 +8605,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-54",
+      "id": "crate-class-54",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8622,12 +8622,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-55",
+      "id": "crate-class-55",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8639,12 +8639,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-56",
+      "id": "crate-class-56",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8656,12 +8656,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-57",
+      "id": "crate-class-57",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8673,12 +8673,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-58",
+      "id": "crate-class-58",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8690,12 +8690,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-59",
+      "id": "crate-class-59",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8707,12 +8707,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-60",
+      "id": "crate-class-60",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8724,12 +8724,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-61",
+      "id": "crate-class-61",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8741,12 +8741,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-62",
+      "id": "crate-class-62",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8758,12 +8758,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-63",
+      "id": "crate-class-63",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8775,12 +8775,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-64",
+      "id": "crate-class-64",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8792,12 +8792,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-65",
+      "id": "crate-class-65",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8809,12 +8809,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-66",
+      "id": "crate-class-66",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8826,12 +8826,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-67",
+      "id": "crate-class-67",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8843,12 +8843,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-68",
+      "id": "crate-class-68",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8860,12 +8860,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-69",
+      "id": "crate-class-69",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8877,12 +8877,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-70",
+      "id": "crate-class-70",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8894,12 +8894,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-71",
+      "id": "crate-class-71",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8911,12 +8911,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-72",
+      "id": "crate-class-72",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8928,12 +8928,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-73",
+      "id": "crate-class-73",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8945,12 +8945,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-74",
+      "id": "crate-class-74",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8962,12 +8962,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-75",
+      "id": "crate-class-75",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8979,12 +8979,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-76",
+      "id": "crate-class-76",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -8996,12 +8996,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-77",
+      "id": "crate-class-77",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -9013,12 +9013,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-78",
+      "id": "crate-class-78",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -9030,12 +9030,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-79",
+      "id": "crate-class-79",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -9047,12 +9047,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-80",
+      "id": "crate-class-80",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -9064,12 +9064,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-81",
+      "id": "crate-class-81",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -9081,12 +9081,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-82",
+      "id": "crate-class-82",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -9098,12 +9098,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-83",
+      "id": "crate-class-83",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -9115,12 +9115,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-84",
+      "id": "crate-class-84",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -9132,12 +9132,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-85",
+      "id": "crate-class-85",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -9149,12 +9149,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-86",
+      "id": "crate-class-86",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -9166,12 +9166,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-87",
+      "id": "crate-class-87",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -9183,12 +9183,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-88",
+      "id": "crate-class-88",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -9200,12 +9200,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-89",
+      "id": "crate-class-89",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -9217,12 +9217,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-90",
+      "id": "crate-class-90",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -9234,12 +9234,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-91",
+      "id": "crate-class-91",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -9251,12 +9251,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-92",
+      "id": "crate-class-92",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -9268,12 +9268,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-93",
+      "id": "crate-class-93",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -9285,12 +9285,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-94",
+      "id": "crate-class-94",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -9302,12 +9302,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-95",
+      "id": "crate-class-95",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -9319,12 +9319,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-96",
+      "id": "crate-class-96",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -9336,12 +9336,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-97",
+      "id": "crate-class-97",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -9353,12 +9353,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-98",
+      "id": "crate-class-98",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -9370,12 +9370,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-99",
+      "id": "crate-class-99",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -9387,12 +9387,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-orange-100",
+      "id": "crate-class-100",
       "properties": {
         "category": "crate",
-        "subtype": "orange",
+        "subtype": "class",
         "name": "Class Crate",
-        "icon": "orange"
+        "icon": "class"
       },
       "geometry": {
         "type": "Point",
@@ -9404,12 +9404,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-01",
+      "id": "crate-tactical-01",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -9421,12 +9421,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-02",
+      "id": "crate-tactical-02",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -9438,12 +9438,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-03",
+      "id": "crate-tactical-03",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -9455,12 +9455,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-04",
+      "id": "crate-tactical-04",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -9472,12 +9472,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-05",
+      "id": "crate-tactical-05",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -9489,12 +9489,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-06",
+      "id": "crate-tactical-06",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -9506,12 +9506,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-07",
+      "id": "crate-tactical-07",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -9523,12 +9523,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-08",
+      "id": "crate-tactical-08",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -9540,12 +9540,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-09",
+      "id": "crate-tactical-09",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -9557,12 +9557,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-10",
+      "id": "crate-tactical-10",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -9574,12 +9574,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-11",
+      "id": "crate-tactical-11",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -9591,12 +9591,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-12",
+      "id": "crate-tactical-12",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -9608,12 +9608,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-13",
+      "id": "crate-tactical-13",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -9625,12 +9625,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-14",
+      "id": "crate-tactical-14",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -9642,12 +9642,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-15",
+      "id": "crate-tactical-15",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -9659,12 +9659,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-16",
+      "id": "crate-tactical-16",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -9676,12 +9676,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-17",
+      "id": "crate-tactical-17",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -9693,12 +9693,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-18",
+      "id": "crate-tactical-18",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -9710,12 +9710,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-19",
+      "id": "crate-tactical-19",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -9727,12 +9727,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-20",
+      "id": "crate-tactical-20",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -9744,12 +9744,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-21",
+      "id": "crate-tactical-21",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -9761,12 +9761,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-22",
+      "id": "crate-tactical-22",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -9778,12 +9778,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-23",
+      "id": "crate-tactical-23",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -9795,12 +9795,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-24",
+      "id": "crate-tactical-24",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -9812,12 +9812,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-25",
+      "id": "crate-tactical-25",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -9829,12 +9829,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-26",
+      "id": "crate-tactical-26",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -9846,12 +9846,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-27",
+      "id": "crate-tactical-27",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -9863,12 +9863,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-28",
+      "id": "crate-tactical-28",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -9880,12 +9880,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-29",
+      "id": "crate-tactical-29",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -9897,12 +9897,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-30",
+      "id": "crate-tactical-30",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -9914,12 +9914,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-31",
+      "id": "crate-tactical-31",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -9931,12 +9931,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-32",
+      "id": "crate-tactical-32",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -9948,12 +9948,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-33",
+      "id": "crate-tactical-33",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -9965,12 +9965,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-34",
+      "id": "crate-tactical-34",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -9982,12 +9982,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-35",
+      "id": "crate-tactical-35",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -9999,12 +9999,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-36",
+      "id": "crate-tactical-36",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -10016,12 +10016,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-37",
+      "id": "crate-tactical-37",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -10033,12 +10033,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-38",
+      "id": "crate-tactical-38",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -10050,12 +10050,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-39",
+      "id": "crate-tactical-39",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -10067,12 +10067,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-40",
+      "id": "crate-tactical-40",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -10084,12 +10084,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-41",
+      "id": "crate-tactical-41",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -10101,12 +10101,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-42",
+      "id": "crate-tactical-42",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -10118,12 +10118,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-43",
+      "id": "crate-tactical-43",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -10135,12 +10135,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-44",
+      "id": "crate-tactical-44",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -10152,12 +10152,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-45",
+      "id": "crate-tactical-45",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -10169,12 +10169,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-46",
+      "id": "crate-tactical-46",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -10186,12 +10186,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-47",
+      "id": "crate-tactical-47",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -10203,12 +10203,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-48",
+      "id": "crate-tactical-48",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -10220,12 +10220,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-49",
+      "id": "crate-tactical-49",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -10237,12 +10237,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-50",
+      "id": "crate-tactical-50",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -10254,12 +10254,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-51",
+      "id": "crate-tactical-51",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -10271,12 +10271,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-52",
+      "id": "crate-tactical-52",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -10288,12 +10288,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-53",
+      "id": "crate-tactical-53",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -10305,12 +10305,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-54",
+      "id": "crate-tactical-54",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -10322,12 +10322,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-55",
+      "id": "crate-tactical-55",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -10339,12 +10339,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-56",
+      "id": "crate-tactical-56",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -10356,12 +10356,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-57",
+      "id": "crate-tactical-57",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -10373,12 +10373,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-58",
+      "id": "crate-tactical-58",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -10390,12 +10390,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-59",
+      "id": "crate-tactical-59",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -10407,12 +10407,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-60",
+      "id": "crate-tactical-60",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -10424,12 +10424,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-61",
+      "id": "crate-tactical-61",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -10441,12 +10441,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-62",
+      "id": "crate-tactical-62",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -10458,12 +10458,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-63",
+      "id": "crate-tactical-63",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -10475,12 +10475,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-64",
+      "id": "crate-tactical-64",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -10492,12 +10492,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-65",
+      "id": "crate-tactical-65",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -10509,12 +10509,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-66",
+      "id": "crate-tactical-66",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -10526,12 +10526,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-67",
+      "id": "crate-tactical-67",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -10543,12 +10543,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-68",
+      "id": "crate-tactical-68",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -10560,12 +10560,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-69",
+      "id": "crate-tactical-69",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -10577,12 +10577,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-70",
+      "id": "crate-tactical-70",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -10594,12 +10594,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-71",
+      "id": "crate-tactical-71",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -10611,12 +10611,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-72",
+      "id": "crate-tactical-72",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",
@@ -10628,12 +10628,12 @@
     },
     {
       "type": "Feature",
-      "id": "crate-black-73",
+      "id": "crate-tactical-73",
       "properties": {
         "category": "crate",
-        "subtype": "black",
+        "subtype": "tactical",
         "name": "Tactical Crate",
-        "icon": "black"
+        "icon": "tactical"
       },
       "geometry": {
         "type": "Point",

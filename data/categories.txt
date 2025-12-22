@@ -1,4 +1,4 @@
-utility:redeploy,resupply,intel,ziptower,zipline
-vehicle:jeep,tank,helicopter,boat,atv,golfcart
-crate:armory,orange,black
-stash:safe,van,truck,cargovan
+Utility:Redeploy,Resupply,Intel,Ziptower,Zipline
+Vehicle:Jeep,Tank,Helicopter,Boat,ATV,Golfcart
+Crate:Armory,Class,Tactical
+Stash:Safe,Van,Truck,Cargovan
