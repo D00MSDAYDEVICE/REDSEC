@@ -2162,6 +2162,329 @@
     },
     {
       "type": "Feature",
+      "id": "vehicle-jeep-79",
+      "properties": {
+        "category": "vehicle",
+        "subtype": "jeep",
+        "name": "Jeep",
+        "icon": "jeep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.821777,
+          76.310358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "vehicle-jeep-80",
+      "properties": {
+        "category": "vehicle",
+        "subtype": "jeep",
+        "name": "Jeep",
+        "icon": "jeep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.696289,
+          74.013493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "vehicle-jeep-81",
+      "properties": {
+        "category": "vehicle",
+        "subtype": "jeep",
+        "name": "Jeep",
+        "icon": "jeep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.176758,
+          63.840668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "vehicle-jeep-82",
+      "properties": {
+        "category": "vehicle",
+        "subtype": "jeep",
+        "name": "Jeep",
+        "icon": "jeep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.311523,
+          69.472969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "vehicle-jeep-83",
+      "properties": {
+        "category": "vehicle",
+        "subtype": "jeep",
+        "name": "Jeep",
+        "icon": "jeep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.161133,
+          68.831802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "vehicle-jeep-84",
+      "properties": {
+        "category": "vehicle",
+        "subtype": "jeep",
+        "name": "Jeep",
+        "icon": "jeep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.116211,
+          62.573106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "vehicle-jeep-85",
+      "properties": {
+        "category": "vehicle",
+        "subtype": "jeep",
+        "name": "Jeep",
+        "icon": "jeep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.319824,
+          64.633292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "vehicle-jeep-86",
+      "properties": {
+        "category": "vehicle",
+        "subtype": "jeep",
+        "name": "Jeep",
+        "icon": "jeep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.259277,
+          61.74193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "vehicle-jeep-87",
+      "properties": {
+        "category": "vehicle",
+        "subtype": "jeep",
+        "name": "Jeep",
+        "icon": "jeep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.008301,
+          55.491304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "vehicle-jeep-88",
+      "properties": {
+        "category": "vehicle",
+        "subtype": "jeep",
+        "name": "Jeep",
+        "icon": "jeep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.399902,
+          50.63901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "vehicle-jeep-89",
+      "properties": {
+        "category": "vehicle",
+        "subtype": "jeep",
+        "name": "Jeep",
+        "icon": "jeep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.210449,
+          52.335339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "vehicle-jeep-90",
+      "properties": {
+        "category": "vehicle",
+        "subtype": "jeep",
+        "name": "Jeep",
+        "icon": "jeep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.23584,
+          31.353637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "vehicle-jeep-91",
+      "properties": {
+        "category": "vehicle",
+        "subtype": "jeep",
+        "name": "Jeep",
+        "icon": "jeep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.695312,
+          27.410786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "vehicle-jeep-92",
+      "properties": {
+        "category": "vehicle",
+        "subtype": "jeep",
+        "name": "Jeep",
+        "icon": "jeep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.279785,
+          5.047171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "vehicle-jeep-93",
+      "properties": {
+        "category": "vehicle",
+        "subtype": "jeep",
+        "name": "Jeep",
+        "icon": "jeep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.285156,
+          -10.09867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "vehicle-jeep-94",
+      "properties": {
+        "category": "vehicle",
+        "subtype": "jeep",
+        "name": "Jeep",
+        "icon": "jeep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.106934,
+          52.335339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "vehicle-jeep-95",
+      "properties": {
+        "category": "vehicle",
+        "subtype": "jeep",
+        "name": "Jeep",
+        "icon": "jeep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.433594,
+          47.989922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "vehicle-jeep-96",
+      "properties": {
+        "category": "vehicle",
+        "subtype": "jeep",
+        "name": "Jeep",
+        "icon": "jeep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.820312,
+          41.836828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "vehicle-jeep-97",
+      "properties": {
+        "category": "vehicle",
+        "subtype": "jeep",
+        "name": "Jeep",
+        "icon": "jeep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.217285,
+          29.075375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "vehicle-helicopter-01",
       "properties": {
         "category": "vehicle",
@@ -11920,6 +12243,2862 @@
     },
     {
       "type": "Feature",
+      "id": "crate-armory-552",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80127,
+          -1.098565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-553",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.878418,
+          1.142502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-554",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.380859,
+          4.412137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-555",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.048828,
+          6.09686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-556",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.650391,
+          12.683215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-557",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.980957,
+          17.560247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-558",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.03418,
+          17.07779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-559",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.341309,
+          12.768946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-560",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.669922,
+          13.047372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-561",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.659668,
+          17.706828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-562",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.881348,
+          45.629405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-563",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.460938,
+          51.412912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-564",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.605469,
+          59.534318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-565",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.825684,
+          61.068917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-566",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.111328,
+          63.5779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-567",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.386719,
+          65.928554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-568",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.331055,
+          64.75539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-569",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.802734,
+          64.689713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-570",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.659668,
+          61.949285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-571",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.47168,
+          74.325173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-572",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.933594,
+          77.24963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-573",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.381348,
+          76.408811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-574",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.724121,
+          76.247817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-575",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.361328,
+          77.379906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-576",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.514648,
+          74.712244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-577",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.24707,
+          72.195246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-578",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.883789,
+          72.646486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-579",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.085449,
+          75.225065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-580",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.90625,
+          73.175897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-581",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.564941,
+          73.252045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-582",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.157715,
+          74.700653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-583",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.387695,
+          72.32913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-584",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.641113,
+          71.448163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-585",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.432617,
+          70.348318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-586",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.728027,
+          70.909456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-587",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.541504,
+          70.162746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-588",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.485352,
+          70.444155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-589",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.507812,
+          69.326079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-590",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.869629,
+          69.847193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-591",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.813965,
+          69.580563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-592",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.614746,
+          78.750659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-593",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.701172,
+          79.608215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-594",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.861816,
+          67.825836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-595",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.589355,
+          66.998844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-596",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.810059,
+          64.062591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-597",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.027344,
+          65.54027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-598",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.864258,
+          64.263684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-599",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.522461,
+          63.184108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-600",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.981445,
+          64.263684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-601",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.354004,
+          63.869715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-602",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.387207,
+          60.392148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-603",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.500977,
+          61.068917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-604",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.02832,
+          59.64554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-605",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.446289,
+          57.36209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-606",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.91748,
+          56.668302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-607",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.290039,
+          52.948638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-608",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.278809,
+          51.426614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-609",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.444824,
+          39.215231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-610",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.677246,
+          33.669497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-611",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.642578,
+          33.449777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-612",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.138672,
+          30.410782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-613",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.478516,
+          31.128199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-614",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.73877,
+          32.454156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-615",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.127441,
+          27.722436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-616",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.983887,
+          25.720735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-617",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.467773,
+          23.604262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-618",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.23291,
+          29.477861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-619",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.07959,
+          26.194877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-620",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.891113,
+          24.866503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-621",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.241699,
+          23.704895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-622",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.894531,
+          23.765237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-623",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.246582,
+          21.063997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-624",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.5625,
+          17.392579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-625",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.408203,
+          14.881087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-626",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.083496,
+          16.951724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-627",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.753418,
+          15.517205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-628",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.366699,
+          14.711135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-629",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.409668,
+          11.996338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-630",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.73877,
+          10.941192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-631",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.675293,
+          7.340675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-632",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.750977,
+          5.419148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-633",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.388672,
+          4.214943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-634",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.130371,
+          13.731381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-635",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.700195,
+          9.18887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-636",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.181641,
+          4.039618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-637",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.049805,
+          1.164471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-638",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.945801,
+          7.972198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-639",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.44873,
+          -3.666928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-640",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.635742,
+          -6.468151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-641",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.821289,
+          1.252342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-642",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.492676,
+          33.11915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-643",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.557617,
+          33.669497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-644",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.665039,
+          33.100745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-645",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.246582,
+          31.840233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-646",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.183105,
+          30.410782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-647",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.018066,
+          27.019984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-648",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.391602,
+          18.124971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-649",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.367188,
+          22.614011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-650",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.882812,
+          24.266997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-651",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.464355,
+          28.381735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-652",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.013672,
+          27.098254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-653",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.276855,
+          -0.153808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-654",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.180176,
+          -4.390229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-655",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.573242,
+          53.722717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-656",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.638184,
+          55.714735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-657",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.82373,
+          54.175297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-658",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.07666,
+          56.0475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-659",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.935547,
+          56.36525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-660",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.813965,
+          61.270233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-661",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.714355,
+          63.21383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-662",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.154785,
+          67.399044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-663",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.220703,
+          66.302205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-664",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.285645,
+          67.449657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-665",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.31543,
+          65.238307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-666",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.171387,
+          64.263684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-667",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.040527,
+          63.75335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-668",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.821777,
+          58.309489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-669",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.712402,
+          56.944974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-670",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.500488,
+          57.30279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-671",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.51123,
+          55.801281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-672",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.631348,
+          55.291628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-673",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.962891,
+          68.784144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-674",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.47998,
+          70.229744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-675",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.21875,
+          68.974164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-676",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.85791,
+          65.937514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-677",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.063965,
+          61.41775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-678",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.722656,
+          71.343013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-679",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.427734,
+          72.796588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-680",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.745605,
+          73.016174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-681",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.228516,
+          67.263552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-682",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.305176,
+          63.381679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-683",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.349121,
+          61.773123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-684",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.10791,
+          61.700291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-685",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          162.729492,
+          65.694476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-686",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.631348,
+          63.253412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-687",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.055664,
+          53.094024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-688",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.769043,
+          52.48278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-689",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.787598,
+          54.316523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-690",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.709473,
+          53.488046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-691",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          157.302246,
+          52.48278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-692",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.82373,
+          50.986099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-693",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.962891,
+          51.57707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-694",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.062012,
+          49.425267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-695",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          161.015625,
+          48.618385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-696",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          157.412109,
+          46.995241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-697",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.314941,
+          44.777936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-698",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.138184,
+          44.512176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-699",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          157.631836,
+          44.402392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-700",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.488281,
+          44.590467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-701",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          162.927246,
+          46.088472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-702",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.709473,
+          41.095912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-703",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.751953,
+          41.459195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-704",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.918457,
+          39.13006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-705",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.158691,
+          38.462192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-706",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.007324,
+          35.335293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-707",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.257812,
+          34.633208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-708",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.193359,
+          33.669497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-709",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          156.950684,
+          34.034453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-710",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.104004,
+          32.639375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-711",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.007324,
+          30.656816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-712",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.380859,
+          28.285033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-713",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.305176,
+          26.155438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-714",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.703613,
+          -0.527336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-715",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.108398,
+          -6.795535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-716",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.869629,
+          -13.325485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-717",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.083984,
+          41.129021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-718",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.823242,
+          51.261915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-719",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.989746,
+          55.191412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "crate-class-01",
       "properties": {
         "category": "crate",
@@ -15065,6 +18244,1043 @@
     },
     {
       "type": "Feature",
+      "id": "crate-class-186",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.603516,
+          -0.373533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-187",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.853027,
+          0.307616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-188",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.169434,
+          5.266008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-189",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.827148,
+          15.771109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-190",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.29541,
+          12.275599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-191",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.5,
+          2.24064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-192",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.091797,
+          5.003394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-193",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.650879,
+          11.630716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-194",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.685059,
+          15.644197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-195",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.331543,
+          16.573023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-196",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.064941,
+          13.859414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-197",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.162109,
+          0.307616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-198",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.35498,
+          -1.911267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-199",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.131836,
+          -2.569939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-200",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.25293,
+          6.8828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-201",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.503906,
+          -8.537565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-202",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.04834,
+          20.11784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-203",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.279785,
+          24.507143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-204",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.958984,
+          25.799891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-205",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.974121,
+          30.713504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-206",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          156.445312,
+          33.082337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-207",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.620117,
+          39.249271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-208",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.534668,
+          45.352145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-209",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.004883,
+          55.764213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-210",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.865234,
+          63.114638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-211",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.097168,
+          66.293373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-212",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.314453,
+          65.63109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-213",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          161.345215,
+          45.305803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-214",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.740723,
+          52.200874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-215",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.067871,
+          55.354135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-216",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.131836,
+          56.255557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-217",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.470215,
+          57.326521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-218",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.217285,
+          61.175033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-219",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.14209,
+          66.530768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-220",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.731934,
+          60.020952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-221",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.436523,
+          65.146115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-222",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.168945,
+          66.026947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-223",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.179199,
+          60.543775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-224",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.816895,
+          70.546862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-225",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.067871,
+          69.88501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-226",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.868652,
+          69.511457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-227",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.062012,
+          69.88501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-228",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.650879,
+          64.101007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-229",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.012207,
+          66.213739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-230",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.279785,
+          72.626814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-231",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.931152,
+          76.367442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-232",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.999512,
+          75.48064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-233",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.230469,
+          77.561042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-234",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.876953,
+          78.577907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-235",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.816895,
+          74.856413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-236",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.584473,
+          65.219894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-237",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.286621,
+          62.308794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-238",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.973633,
+          23.885838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-239",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.64209,
+          24.20689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-240",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.642578,
+          35.442771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-241",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.895508,
+          29.783449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-242",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.794434,
+          23.422928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-243",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.1875,
+          22.207749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-244",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.214844,
+          -32.119801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-245",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.807617,
+          -33.85217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-246",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.538086,
+          -31.877558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "crate-tactical-01",
       "properties": {
         "category": "crate",
@@ -17105,6 +21321,652 @@
     },
     {
       "type": "Feature",
+      "id": "crate-tactical-121",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.635254,
+          77.523122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-122",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.4375,
+          74.936567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-123",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.994141,
+          71.965388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-124",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.123535,
+          72.764065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-125",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.899902,
+          73.627789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-126",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.578613,
+          70.414714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-127",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.996582,
+          64.595613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-128",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.253906,
+          66.731223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-129",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.480469,
+          65.485626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-130",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.725586,
+          61.491249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-131",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.02832,
+          60.053874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-132",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.585449,
+          61.669024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-133",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.623535,
+          60.630102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-134",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.902344,
+          54.800685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-135",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.401367,
+          56.992883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-136",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.069824,
+          37.544577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-137",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.950195,
+          4.324501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-138",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.308105,
+          10.055403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-139",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.250977,
+          12.01783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-140",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.796875,
+          30.619005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-141",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.714844,
+          26.017298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-142",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.619629,
+          21.698265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-143",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.661133,
+          17.769612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-144",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.934082,
+          13.603278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-145",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.631348,
+          8.667918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-146",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.265625,
+          4.959615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-147",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.951172,
+          -1.845384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-148",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.360352,
+          -1.076597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-149",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.993164,
+          22.370396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-150",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.498047,
+          -12.082296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-151",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.178223,
+          -10.53102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-152",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.317383,
+          -10.206813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-153",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.043945,
+          5.812757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-154",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.314453,
+          33.137551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-155",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.534668,
+          43.020714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-156",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.160156,
+          50.387508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-157",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.668457,
+          61.386198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-158",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.710449,
+          1.142502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "vehicle-golfcart-01",
       "properties": {
         "category": "vehicle",
@@ -17389,6 +22251,74 @@
         "coordinates": [
           -37.177734,
           75.994839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "vehicle-atv-06",
+      "properties": {
+        "category": "vehicle",
+        "subtype": "atv",
+        "name": "ATV",
+        "icon": "atv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.460449,
+          -6.20609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "vehicle-atv-07",
+      "properties": {
+        "category": "vehicle",
+        "subtype": "atv",
+        "name": "ATV",
+        "icon": "atv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.26123,
+          -0.461421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "vehicle-atv-08",
+      "properties": {
+        "category": "vehicle",
+        "subtype": "atv",
+        "name": "ATV",
+        "icon": "atv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.897461,
+          33.045508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "vehicle-atv-09",
+      "properties": {
+        "category": "vehicle",
+        "subtype": "atv",
+        "name": "ATV",
+        "icon": "atv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.915039,
+          52.762892
         ]
       }
     },
@@ -18409,6 +23339,278 @@
         "coordinates": [
           -36.057129,
           46.088472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-safe-61",
+      "properties": {
+        "category": "stash",
+        "subtype": "safe",
+        "name": "Locked Safe",
+        "icon": "safe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.028809,
+          3.096636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-safe-62",
+      "properties": {
+        "category": "stash",
+        "subtype": "safe",
+        "name": "Locked Safe",
+        "icon": "safe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.071777,
+          13.795406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-safe-63",
+      "properties": {
+        "category": "stash",
+        "subtype": "safe",
+        "name": "Locked Safe",
+        "icon": "safe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.132324,
+          21.820708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-safe-64",
+      "properties": {
+        "category": "stash",
+        "subtype": "safe",
+        "name": "Locked Safe",
+        "icon": "safe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.210938,
+          53.252069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-safe-65",
+      "properties": {
+        "category": "stash",
+        "subtype": "safe",
+        "name": "Locked Safe",
+        "icon": "safe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.680176,
+          57.433124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-safe-66",
+      "properties": {
+        "category": "stash",
+        "subtype": "safe",
+        "name": "Locked Safe",
+        "icon": "safe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.993652,
+          73.503461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-safe-67",
+      "properties": {
+        "category": "stash",
+        "subtype": "safe",
+        "name": "Locked Safe",
+        "icon": "safe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.348633,
+          76.639226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-safe-68",
+      "properties": {
+        "category": "stash",
+        "subtype": "safe",
+        "name": "Locked Safe",
+        "icon": "safe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.534668,
+          70.147827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-safe-69",
+      "properties": {
+        "category": "stash",
+        "subtype": "safe",
+        "name": "Locked Safe",
+        "icon": "safe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.98584,
+          63.927717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-safe-70",
+      "properties": {
+        "category": "stash",
+        "subtype": "safe",
+        "name": "Locked Safe",
+        "icon": "safe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.726074,
+          66.765919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-safe-71",
+      "properties": {
+        "category": "stash",
+        "subtype": "safe",
+        "name": "Locked Safe",
+        "icon": "safe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.841797,
+          60.812781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-safe-72",
+      "properties": {
+        "category": "stash",
+        "subtype": "safe",
+        "name": "Locked Safe",
+        "icon": "safe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.299316,
+          25.443275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-safe-73",
+      "properties": {
+        "category": "stash",
+        "subtype": "safe",
+        "name": "Locked Safe",
+        "icon": "safe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          157.851562,
+          52.895649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-safe-74",
+      "properties": {
+        "category": "stash",
+        "subtype": "safe",
+        "name": "Locked Safe",
+        "icon": "safe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.07373,
+          29.630771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-safe-75",
+      "properties": {
+        "category": "stash",
+        "subtype": "safe",
+        "name": "Locked Safe",
+        "icon": "safe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.899902,
+          -11.135287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-safe-76",
+      "properties": {
+        "category": "stash",
+        "subtype": "safe",
+        "name": "Locked Safe",
+        "icon": "safe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.906738,
+          29.075375
         ]
       }
     },
@@ -21100,6 +26302,346 @@
     },
     {
       "type": "Feature",
+      "id": "stash-van-159",
+      "properties": {
+        "category": "stash",
+        "subtype": "van",
+        "name": "Police/Ambulance",
+        "icon": "van"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.828125,
+          43.992815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-van-160",
+      "properties": {
+        "category": "stash",
+        "subtype": "van",
+        "name": "Police/Ambulance",
+        "icon": "van"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.937988,
+          45.598666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-van-161",
+      "properties": {
+        "category": "stash",
+        "subtype": "van",
+        "name": "Police/Ambulance",
+        "icon": "van"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.509766,
+          46.088472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-van-162",
+      "properties": {
+        "category": "stash",
+        "subtype": "van",
+        "name": "Police/Ambulance",
+        "icon": "van"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.981934,
+          48.414619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-van-163",
+      "properties": {
+        "category": "stash",
+        "subtype": "van",
+        "name": "Police/Ambulance",
+        "icon": "van"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.04834,
+          55.801281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-van-164",
+      "properties": {
+        "category": "stash",
+        "subtype": "van",
+        "name": "Police/Ambulance",
+        "icon": "van"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.752441,
+          56.776808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-van-165",
+      "properties": {
+        "category": "stash",
+        "subtype": "van",
+        "name": "Police/Ambulance",
+        "icon": "van"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.995605,
+          57.774518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-van-166",
+      "properties": {
+        "category": "stash",
+        "subtype": "van",
+        "name": "Police/Ambulance",
+        "icon": "van"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.960938,
+          26.902477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-van-167",
+      "properties": {
+        "category": "stash",
+        "subtype": "van",
+        "name": "Police/Ambulance",
+        "icon": "van"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.499512,
+          25.005973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-van-168",
+      "properties": {
+        "category": "stash",
+        "subtype": "van",
+        "name": "Police/Ambulance",
+        "icon": "van"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.895996,
+          19.311143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-van-169",
+      "properties": {
+        "category": "stash",
+        "subtype": "van",
+        "name": "Police/Ambulance",
+        "icon": "van"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.347168,
+          18.729502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-van-170",
+      "properties": {
+        "category": "stash",
+        "subtype": "van",
+        "name": "Police/Ambulance",
+        "icon": "van"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.768066,
+          71.739548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-van-171",
+      "properties": {
+        "category": "stash",
+        "subtype": "van",
+        "name": "Police/Ambulance",
+        "icon": "van"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.424805,
+          71.045529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-van-172",
+      "properties": {
+        "category": "stash",
+        "subtype": "van",
+        "name": "Police/Ambulance",
+        "icon": "van"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.686523,
+          57.73935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-van-173",
+      "properties": {
+        "category": "stash",
+        "subtype": "van",
+        "name": "Police/Ambulance",
+        "icon": "van"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.600098,
+          28.381735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-van-174",
+      "properties": {
+        "category": "stash",
+        "subtype": "van",
+        "name": "Police/Ambulance",
+        "icon": "van"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.823242,
+          23.584126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-van-175",
+      "properties": {
+        "category": "stash",
+        "subtype": "van",
+        "name": "Police/Ambulance",
+        "icon": "van"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.442871,
+          33.85217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-van-176",
+      "properties": {
+        "category": "stash",
+        "subtype": "van",
+        "name": "Police/Ambulance",
+        "icon": "van"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.71875,
+          28.786918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-van-177",
+      "properties": {
+        "category": "stash",
+        "subtype": "van",
+        "name": "Police/Ambulance",
+        "icon": "van"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.881836,
+          29.668963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-van-178",
+      "properties": {
+        "category": "stash",
+        "subtype": "van",
+        "name": "Police/Ambulance",
+        "icon": "van"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.374512,
+          17.623082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "other-redeploy-01",
       "properties": {
         "category": "utility",
@@ -22200,6 +27742,23 @@
         "coordinates": [
           41.484375,
           64.71788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "other-redeploy-66",
+      "properties": {
+        "category": "utility",
+        "subtype": "redeploy",
+        "name": "Redeploy Tower",
+        "icon": "redeploy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.563477,
+          36.315125
         ]
       }
     },
@@ -23526,6 +29085,159 @@
         "coordinates": [
           -18.94043,
           65.874725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "other-resupply-74",
+      "properties": {
+        "category": "utility",
+        "subtype": "resupply",
+        "name": "Vehicle Resupply Station",
+        "icon": "resupply"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.852539,
+          49.79545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "other-resupply-75",
+      "properties": {
+        "category": "utility",
+        "subtype": "resupply",
+        "name": "Vehicle Resupply Station",
+        "icon": "resupply"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.57373,
+          70.117959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "other-resupply-76",
+      "properties": {
+        "category": "utility",
+        "subtype": "resupply",
+        "name": "Vehicle Resupply Station",
+        "icon": "resupply"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.709473,
+          59.612212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "other-resupply-77",
+      "properties": {
+        "category": "utility",
+        "subtype": "resupply",
+        "name": "Vehicle Resupply Station",
+        "icon": "resupply"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.911133,
+          22.309426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "other-resupply-78",
+      "properties": {
+        "category": "utility",
+        "subtype": "resupply",
+        "name": "Vehicle Resupply Station",
+        "icon": "resupply"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.893555,
+          21.71868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "other-resupply-79",
+      "properties": {
+        "category": "utility",
+        "subtype": "resupply",
+        "name": "Vehicle Resupply Station",
+        "icon": "resupply"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.231445,
+          6.795535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "other-resupply-80",
+      "properties": {
+        "category": "utility",
+        "subtype": "resupply",
+        "name": "Vehicle Resupply Station",
+        "icon": "resupply"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.843262,
+          -2.196727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "other-resupply-81",
+      "properties": {
+        "category": "utility",
+        "subtype": "resupply",
+        "name": "Vehicle Resupply Station",
+        "icon": "resupply"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.558594,
+          29.859701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "other-resupply-82",
+      "properties": {
+        "category": "utility",
+        "subtype": "resupply",
+        "name": "Vehicle Resupply Station",
+        "icon": "resupply"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.341797,
+          43.802819
         ]
       }
     },
@@ -28325,6 +34037,312 @@
     },
     {
       "type": "Feature",
+      "id": "stash-truck-98",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.202637,
+          -5.965754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-99",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.356934,
+          -3.250209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-100",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.915527,
+          -3.688855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-101",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.344238,
+          4.36832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-102",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.682129,
+          20.200346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-103",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.463867,
+          23.644524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-104",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.378906,
+          26.431228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-105",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.696289,
+          11.802834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-106",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.509277,
+          10.401378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-107",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.331055,
+          31.203405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-108",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.320801,
+          34.089061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-109",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.915527,
+          36.332828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-110",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.336426,
+          59.277108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-111",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.234375,
+          54.406143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-112",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.568848,
+          72.724958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-113",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.473145,
+          68.220523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-114",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.502441,
+          25.918526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-115",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.458984,
+          51.57707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "stash-cargo-01",
       "properties": {
         "category": "stash",
@@ -30297,6 +36315,176 @@
     },
     {
       "type": "Feature",
+      "id": "stash-cargo-117",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.969238,
+          8.385431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-118",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.268555,
+          2.855263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-119",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.318848,
+          9.817329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-120",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.105469,
+          -1.691649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-121",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.464844,
+          -10.682201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-122",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          162.004395,
+          33.651208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-123",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          164.355469,
+          41.623655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-124",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.79834,
+          52.160455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-125",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.383301,
+          50.092393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-126",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.510742,
+          53.579461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "stash-mrapv-01",
       "properties": {
         "category": "stash",
@@ -30700,6 +36888,618 @@
         "coordinates": [
           132.60498,
           -74.271655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-25",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.986816,
+          69.217202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-26",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.250488,
+          68.768235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-27",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.446289,
+          69.634158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-28",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.710938,
+          62.623668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-29",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.714844,
+          61.428261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-30",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.020996,
+          58.927334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-31",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.303711,
+          56.800878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-32",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.102051,
+          23.624395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-33",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.304688,
+          -0.637194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-34",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.614746,
+          12.46876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-35",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.541992,
+          27.235095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-36",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.705566,
+          -2.482133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-37",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.815918,
+          -33.651208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-38",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.870605,
+          -34.107256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-39",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.461914,
+          -4.149201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-40",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.745605,
+          -4.806365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-41",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.469238,
+          24.347097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-42",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.730469,
+          38.186387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-43",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.963867,
+          44.543505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-44",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.500488,
+          54.226708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-45",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.4375,
+          63.9856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-46",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.455078,
+          54.033586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-47",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.819824,
+          20.715015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-48",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.667969,
+          -6.577303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-49",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.88623,
+          -18.583776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-mrapv-50",
+      "properties": {
+        "category": "stash",
+        "subtype": "mrapv",
+        "name": "MRAPV",
+        "icon": "mrapv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.835449,
+          60.196156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-eagle-01",
+      "properties": {
+        "category": "stash",
+        "subtype": "eagle",
+        "name": "Eagle Container",
+        "icon": "eagle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.333984,
+          -72.932538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-eagle-02",
+      "properties": {
+        "category": "stash",
+        "subtype": "eagle",
+        "name": "Eagle Container",
+        "icon": "eagle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.46875,
+          -77.07387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-eagle-03",
+      "properties": {
+        "category": "stash",
+        "subtype": "eagle",
+        "name": "Eagle Container",
+        "icon": "eagle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.587891,
+          -58.159112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-eagle-04",
+      "properties": {
+        "category": "stash",
+        "subtype": "eagle",
+        "name": "Eagle Container",
+        "icon": "eagle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.564941,
+          -78.048346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-eagle-05",
+      "properties": {
+        "category": "stash",
+        "subtype": "eagle",
+        "name": "Eagle Container",
+        "icon": "eagle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.075684,
+          -32.509762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-eagle-06",
+      "properties": {
+        "category": "stash",
+        "subtype": "eagle",
+        "name": "Eagle Container",
+        "icon": "eagle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.104492,
+          3.995781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-eagle-07",
+      "properties": {
+        "category": "stash",
+        "subtype": "eagle",
+        "name": "Eagle Container",
+        "icon": "eagle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.60498,
+          64.177679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-eagle-08",
+      "properties": {
+        "category": "stash",
+        "subtype": "eagle",
+        "name": "Eagle Container",
+        "icon": "eagle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.133301,
+          75.241866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-eagle-09",
+      "properties": {
+        "category": "stash",
+        "subtype": "eagle",
+        "name": "Eagle Container",
+        "icon": "eagle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.672852,
+          5.900189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-eagle-10",
+      "properties": {
+        "category": "stash",
+        "subtype": "eagle",
+        "name": "Eagle Container",
+        "icon": "eagle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.130371,
+          65.385147
         ]
       }
     },
