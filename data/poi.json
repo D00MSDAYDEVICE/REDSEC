@@ -2485,6 +2485,159 @@
     },
     {
       "type": "Feature",
+      "id": "vehicle-jeep-98",
+      "properties": {
+        "category": "vehicle",
+        "subtype": "jeep",
+        "name": "Jeep",
+        "icon": "jeep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.269531,
+          -30.789037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "vehicle-jeep-99",
+      "properties": {
+        "category": "vehicle",
+        "subtype": "jeep",
+        "name": "Jeep",
+        "icon": "jeep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.106934,
+          -42.049293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "vehicle-jeep-100",
+      "properties": {
+        "category": "vehicle",
+        "subtype": "jeep",
+        "name": "Jeep",
+        "icon": "jeep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.246582,
+          -43.516689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "vehicle-jeep-101",
+      "properties": {
+        "category": "vehicle",
+        "subtype": "jeep",
+        "name": "Jeep",
+        "icon": "jeep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.945801,
+          -33.669497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "vehicle-jeep-102",
+      "properties": {
+        "category": "vehicle",
+        "subtype": "jeep",
+        "name": "Jeep",
+        "icon": "jeep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.963867,
+          -50.722547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "vehicle-jeep-103",
+      "properties": {
+        "category": "vehicle",
+        "subtype": "jeep",
+        "name": "Jeep",
+        "icon": "jeep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.702637,
+          -54.380557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "vehicle-jeep-104",
+      "properties": {
+        "category": "vehicle",
+        "subtype": "jeep",
+        "name": "Jeep",
+        "icon": "jeep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -129.375,
+          -48.676454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "vehicle-jeep-105",
+      "properties": {
+        "category": "vehicle",
+        "subtype": "jeep",
+        "name": "Jeep",
+        "icon": "jeep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -132.495117,
+          -7.580328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "vehicle-jeep-106",
+      "properties": {
+        "category": "vehicle",
+        "subtype": "jeep",
+        "name": "Jeep",
+        "icon": "jeep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -142.756348,
+          -20.797201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "vehicle-helicopter-01",
       "properties": {
         "category": "vehicle",
@@ -2871,6 +3024,40 @@
         "coordinates": [
           -138.625488,
           63.074866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "vehicle-boat-16",
+      "properties": {
+        "category": "vehicle",
+        "subtype": "boat",
+        "name": "Boat",
+        "icon": "boat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -161.235352,
+          -28.72913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "vehicle-boat-17",
+      "properties": {
+        "category": "vehicle",
+        "subtype": "boat",
+        "name": "Boat",
+        "icon": "boat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.697754,
+          -2.174771
         ]
       }
     },
@@ -15099,6 +15286,1995 @@
     },
     {
       "type": "Feature",
+      "id": "crate-armory-720",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.213867,
+          -55.739482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-721",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.24707,
+          -54.316523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-722",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.324219,
+          -53.252069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-723",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.082031,
+          -51.604372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-724",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.271973,
+          -59.097025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-725",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.239258,
+          -57.856443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-726",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.987305,
+          -57.856443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-727",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.118652,
+          -56.932987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-728",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.965332,
+          -56.157788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-729",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.40332,
+          -53.683695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-730",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.61377,
+          -54.610255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-731",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.733398,
+          -53.435719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-732",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.768066,
+          -53.826597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-733",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.482422,
+          -51.412912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-734",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.90625,
+          -48.79239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-735",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.424316,
+          -51.876491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-736",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.444824,
+          -45.981695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-737",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.401367,
+          -45.135555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-738",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.248535,
+          -44.150681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-739",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.084473,
+          -45.47554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-740",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.922363,
+          -44.918139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-741",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.678711,
+          -46.346928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-742",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.932617,
+          -46.649436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-743",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.413574,
+          -47.739323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-744",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.326172,
+          -48.545705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-745",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.371582,
+          -47.798397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-746",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.317383,
+          -49.009051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-747",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.099609,
+          -47.945786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-748",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.879395,
+          -49.823809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-749",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.153809,
+          -50.986099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-750",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.516113,
+          -51.98488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-751",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.523926,
+          -43.659924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-752",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.668457,
+          -43.405047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-753",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.230469,
+          -43.516689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-754",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.021973,
+          -42.212245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-755",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.050781,
+          -40.913513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-756",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.841309,
+          -40.078071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-757",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.130371,
+          -42.179688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-758",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.22998,
+          -42.130821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-759",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.724121,
+          -39.164141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-760",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.51416,
+          -37.909534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-761",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.493164,
+          -37.805444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-762",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.294922,
+          -36.985003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-763",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.865234,
+          -36.155618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-764",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.719727,
+          -35.88905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-765",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.42334,
+          -35.101934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-766",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.01709,
+          -32.842674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-767",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.446289,
+          -32.10119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-768",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.31543,
+          -33.468108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-769",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.855957,
+          -31.16581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-770",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.8125,
+          -32.287133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-771",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.307617,
+          -31.052934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-772",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.375488,
+          -31.970804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-773",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.726074,
+          -28.265682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-774",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.913086,
+          -25.601902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-775",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.100098,
+          -24.527135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-776",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.73584,
+          -21.861499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-777",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.767578,
+          -21.391705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-778",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.372559,
+          -20.550509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-779",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.70166,
+          -19.062118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-780",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.798828,
+          -24.106647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-781",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.435547,
+          -23.281719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-782",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.918457,
+          -23.039298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-783",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.589355,
+          -21.575719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-784",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.348145,
+          -16.909684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-785",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.51416,
+          -17.685895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-786",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.085938,
+          -17.895114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-787",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.196289,
+          -14.306969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-788",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.3125,
+          -17.936929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-789",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.015137,
+          -17.769612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-790",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.212891,
+          -16.993755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-791",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.202637,
+          -15.347762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-792",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.71875,
+          -13.453737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-793",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.793457,
+          -12.039321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-794",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -126.958008,
+          -11.135287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-795",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.441895,
+          -9.470736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-796",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -126.474609,
+          -6.620957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-797",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -127.946777,
+          -2.833317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-798",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -128.144531,
+          -1.120534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-799",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.870605,
+          -1.823423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-800",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.82666,
+          0.395505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-801",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.6875,
+          -4.039618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-802",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.764648,
+          -1.428075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-803",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.358398,
+          -5.090944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-804",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.303711,
+          -4.258768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-805",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.425781,
+          -12.125264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-806",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.503418,
+          -11.931852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-807",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.768066,
+          -12.01783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-808",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.150879,
+          -11.630716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-809",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.876465,
+          -10.639014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-810",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.294922,
+          -10.422988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-811",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.591309,
+          -6.380812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-812",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.678711,
+          -4.236856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-813",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.281738,
+          -4.258768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-814",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.491699,
+          -2.899153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-815",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.591309,
+          -3.491489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-816",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.855469,
+          -3.00887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-817",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.106934,
+          -4.324501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-818",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.0625,
+          -5.703448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-819",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.458496,
+          -7.819847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-820",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.217285,
+          -20.365228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-821",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -133.439941,
+          -42.504503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-822",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -133.132324,
+          -43.133061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-823",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -136.07666,
+          -48.806863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-824",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -137.922363,
+          -88.688318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-825",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.285645,
+          -73.137697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-826",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.206055,
+          -49.710273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-827",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.228027,
+          -50.457504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-828",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.239258,
+          6.446318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-829",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.29248,
+          -2.086941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-830",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.456543,
+          -11.544616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-831",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -153.808594,
+          -14.944785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-832",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.01709,
+          -32.750323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-833",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.631836,
+          -35.550105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-834",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.753906,
+          -35.603719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-835",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.776367,
+          -44.040219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-armory-836",
+      "properties": {
+        "category": "crate",
+        "subtype": "armory",
+        "name": "Regular Crate",
+        "icon": "armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.853516,
+          -47.428087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "crate-class-01",
       "properties": {
         "category": "crate",
@@ -19281,6 +21457,516 @@
     },
     {
       "type": "Feature",
+      "id": "crate-class-247",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -126.101074,
+          0.549308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-248",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -127.463379,
+          -10.53102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-249",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.927734,
+          -14.668626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-250",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.654785,
+          -4.937724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-251",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.589355,
+          -3.381824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-252",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.678711,
+          -2.284551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-253",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.987793,
+          -12.854649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-254",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.987305,
+          -19.66328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-255",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.819824,
+          -23.584126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-256",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.363281,
+          -27.664069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-257",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.538086,
+          -31.672083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-258",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.764648,
+          -32.379961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-259",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.994629,
+          -36.914764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-260",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.161621,
+          -35.442771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-261",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.305664,
+          -37.474858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-262",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.083496,
+          -41.722131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-263",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.908691,
+          -44.402392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-264",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.225098,
+          -46.452997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-265",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.28125,
+          -51.549751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-266",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.456055,
+          -53.865486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-267",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.361328,
+          -54.342149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-268",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.010742,
+          -41.672912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-269",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.932617,
+          -45.058001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-270",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.77002,
+          -48.400032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-271",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.248535,
+          -4.28068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-272",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.744141,
+          -5.178482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-273",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.819336,
+          -15.517205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-274",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -141.174316,
+          -40.913513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-275",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -133.703613,
+          -43.786958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-class-276",
+      "properties": {
+        "category": "crate",
+        "subtype": "class",
+        "name": "Class Crate",
+        "icon": "class"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.273926,
+          -49.653405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "crate-tactical-01",
       "properties": {
         "category": "crate",
@@ -21967,6 +24653,397 @@
     },
     {
       "type": "Feature",
+      "id": "crate-tactical-159",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.612793,
+          -58.459229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-160",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.525879,
+          -55.391592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-161",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.28125,
+          -52.200874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-162",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.890625,
+          -48.341646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-163",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.93457,
+          -47.517201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-164",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.324707,
+          -41.492121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-165",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.426758,
+          -42.293564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-166",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.181152,
+          -37.07271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-167",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.548828,
+          -30.921076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-168",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.97998,
+          -25.105497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-169",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.22998,
+          -21.71868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-170",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.576172,
+          -18.687879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-171",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.963867,
+          -15.623037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-172",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -127.30957,
+          -7.384258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-173",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.786621,
+          -2.416276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-174",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.931641,
+          -2.877208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-175",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -136.73584,
+          -50.233152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-176",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -144.118652,
+          -19.932041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-177",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.467285,
+          -7.253496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-178",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.016602,
+          -28.574874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-179",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.48291,
+          0.241699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-180",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.042969,
+          -7.602108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "crate-tactical-181",
+      "properties": {
+        "category": "crate",
+        "subtype": "tactical",
+        "name": "Tactical Crate",
+        "icon": "tactical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.657227,
+          -2.021065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "vehicle-golfcart-01",
       "properties": {
         "category": "vehicle",
@@ -23611,6 +26688,193 @@
         "coordinates": [
           66.906738,
           29.075375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-safe-77",
+      "properties": {
+        "category": "stash",
+        "subtype": "safe",
+        "name": "Locked Safe",
+        "icon": "safe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.969238,
+          -2.350415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-safe-78",
+      "properties": {
+        "category": "stash",
+        "subtype": "safe",
+        "name": "Locked Safe",
+        "icon": "safe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.39209,
+          -3.381824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-safe-79",
+      "properties": {
+        "category": "stash",
+        "subtype": "safe",
+        "name": "Locked Safe",
+        "icon": "safe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.327637,
+          -4.872048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-safe-80",
+      "properties": {
+        "category": "stash",
+        "subtype": "safe",
+        "name": "Locked Safe",
+        "icon": "safe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.861816,
+          -16.69934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-safe-81",
+      "properties": {
+        "category": "stash",
+        "subtype": "safe",
+        "name": "Locked Safe",
+        "icon": "safe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.568848,
+          -19.082884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-safe-82",
+      "properties": {
+        "category": "stash",
+        "subtype": "safe",
+        "name": "Locked Safe",
+        "icon": "safe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.51123,
+          -32.898038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-safe-83",
+      "properties": {
+        "category": "stash",
+        "subtype": "safe",
+        "name": "Locked Safe",
+        "icon": "safe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.832031,
+          -36.031332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-safe-84",
+      "properties": {
+        "category": "stash",
+        "subtype": "safe",
+        "name": "Locked Safe",
+        "icon": "safe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.197266,
+          -41.046217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-safe-85",
+      "properties": {
+        "category": "stash",
+        "subtype": "safe",
+        "name": "Locked Safe",
+        "icon": "safe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.913086,
+          -27.274161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-safe-86",
+      "properties": {
+        "category": "stash",
+        "subtype": "safe",
+        "name": "Locked Safe",
+        "icon": "safe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.666016,
+          -48.458352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-safe-87",
+      "properties": {
+        "category": "stash",
+        "subtype": "safe",
+        "name": "Locked Safe",
+        "icon": "safe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.274902,
+          -42.90816
         ]
       }
     },
@@ -26637,6 +29901,363 @@
         "coordinates": [
           86.374512,
           17.623082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-van-179",
+      "properties": {
+        "category": "stash",
+        "subtype": "van",
+        "name": "Police/Ambulance",
+        "icon": "van"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.047363,
+          -41.277806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-van-180",
+      "properties": {
+        "category": "stash",
+        "subtype": "van",
+        "name": "Police/Ambulance",
+        "icon": "van"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -127.30957,
+          -49.310799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-van-181",
+      "properties": {
+        "category": "stash",
+        "subtype": "van",
+        "name": "Police/Ambulance",
+        "icon": "van"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.139648,
+          -37.509726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-van-182",
+      "properties": {
+        "category": "stash",
+        "subtype": "van",
+        "name": "Police/Ambulance",
+        "icon": "van"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.240723,
+          -50.499452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-van-183",
+      "properties": {
+        "category": "stash",
+        "subtype": "van",
+        "name": "Police/Ambulance",
+        "icon": "van"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.527344,
+          -35.978006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-van-184",
+      "properties": {
+        "category": "stash",
+        "subtype": "van",
+        "name": "Police/Ambulance",
+        "icon": "van"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.747559,
+          -35.817813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-van-185",
+      "properties": {
+        "category": "stash",
+        "subtype": "van",
+        "name": "Police/Ambulance",
+        "icon": "van"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.688477,
+          -46.164614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-van-186",
+      "properties": {
+        "category": "stash",
+        "subtype": "van",
+        "name": "Police/Ambulance",
+        "icon": "van"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.789062,
+          -59.523176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-van-187",
+      "properties": {
+        "category": "stash",
+        "subtype": "van",
+        "name": "Police/Ambulance",
+        "icon": "van"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -130.649414,
+          -40.513799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-van-188",
+      "properties": {
+        "category": "stash",
+        "subtype": "van",
+        "name": "Police/Ambulance",
+        "icon": "van"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -142.250977,
+          -27.43029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-van-189",
+      "properties": {
+        "category": "stash",
+        "subtype": "van",
+        "name": "Police/Ambulance",
+        "icon": "van"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.666992,
+          -27.098254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-van-190",
+      "properties": {
+        "category": "stash",
+        "subtype": "van",
+        "name": "Police/Ambulance",
+        "icon": "van"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -126.254883,
+          -16.256867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-van-191",
+      "properties": {
+        "category": "stash",
+        "subtype": "van",
+        "name": "Police/Ambulance",
+        "icon": "van"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.282715,
+          -18.104087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-van-192",
+      "properties": {
+        "category": "stash",
+        "subtype": "van",
+        "name": "Police/Ambulance",
+        "icon": "van"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.655762,
+          -14.583583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-van-193",
+      "properties": {
+        "category": "stash",
+        "subtype": "van",
+        "name": "Police/Ambulance",
+        "icon": "van"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.291016,
+          -9.297307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-van-194",
+      "properties": {
+        "category": "stash",
+        "subtype": "van",
+        "name": "Police/Ambulance",
+        "icon": "van"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.884277,
+          -7.035476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-van-195",
+      "properties": {
+        "category": "stash",
+        "subtype": "van",
+        "name": "Police/Ambulance",
+        "icon": "van"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.261719,
+          -11.027472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-van-196",
+      "properties": {
+        "category": "stash",
+        "subtype": "van",
+        "name": "Police/Ambulance",
+        "icon": "van"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.745117,
+          -9.60075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-van-197",
+      "properties": {
+        "category": "stash",
+        "subtype": "van",
+        "name": "Police/Ambulance",
+        "icon": "van"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -140.515137,
+          -18.25022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-van-198",
+      "properties": {
+        "category": "stash",
+        "subtype": "van",
+        "name": "Police/Ambulance",
+        "icon": "van"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -142.470703,
+          -14.285677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-van-199",
+      "properties": {
+        "category": "stash",
+        "subtype": "van",
+        "name": "Police/Ambulance",
+        "icon": "van"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -131.000977,
+          1.076597
         ]
       }
     },
@@ -30307,23 +33928,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -125.112305,
-          -32.750323
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "other-intel-64",
-      "properties": {
-        "category": "utility",
-        "subtype": "intel",
-        "name": "Intel Case",
-        "icon": "intel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -99.755859,
           -34.379713
         ]
@@ -30331,7 +33935,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-65",
+      "id": "other-intel-64",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -30348,7 +33952,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-66",
+      "id": "other-intel-65",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -30365,7 +33969,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-67",
+      "id": "other-intel-66",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -30382,7 +33986,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-68",
+      "id": "other-intel-67",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -30399,7 +34003,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-69",
+      "id": "other-intel-68",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -30416,7 +34020,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-70",
+      "id": "other-intel-69",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -30433,7 +34037,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-71",
+      "id": "other-intel-70",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -30450,7 +34054,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-72",
+      "id": "other-intel-71",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -30467,7 +34071,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-73",
+      "id": "other-intel-72",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -30484,7 +34088,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-74",
+      "id": "other-intel-73",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -30501,7 +34105,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-75",
+      "id": "other-intel-74",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -30518,7 +34122,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-76",
+      "id": "other-intel-75",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -30535,7 +34139,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-77",
+      "id": "other-intel-76",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -30552,7 +34156,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-78",
+      "id": "other-intel-77",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -30569,7 +34173,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-79",
+      "id": "other-intel-78",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -30586,7 +34190,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-80",
+      "id": "other-intel-79",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -30603,7 +34207,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-81",
+      "id": "other-intel-80",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -30620,7 +34224,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-82",
+      "id": "other-intel-81",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -30637,7 +34241,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-83",
+      "id": "other-intel-82",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -30654,7 +34258,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-84",
+      "id": "other-intel-83",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -30671,7 +34275,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-85",
+      "id": "other-intel-84",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -30688,7 +34292,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-86",
+      "id": "other-intel-85",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -30705,7 +34309,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-87",
+      "id": "other-intel-86",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -30722,7 +34326,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-88",
+      "id": "other-intel-87",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -30739,7 +34343,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-89",
+      "id": "other-intel-88",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -30756,7 +34360,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-90",
+      "id": "other-intel-89",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -30773,7 +34377,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-91",
+      "id": "other-intel-90",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -30790,7 +34394,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-92",
+      "id": "other-intel-91",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -30807,7 +34411,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-93",
+      "id": "other-intel-92",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -30824,7 +34428,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-94",
+      "id": "other-intel-93",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -30841,7 +34445,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-95",
+      "id": "other-intel-94",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -30858,7 +34462,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-96",
+      "id": "other-intel-95",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -30875,7 +34479,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-97",
+      "id": "other-intel-96",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -30892,7 +34496,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-98",
+      "id": "other-intel-97",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -30909,7 +34513,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-99",
+      "id": "other-intel-98",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -30926,7 +34530,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-100",
+      "id": "other-intel-99",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -30943,7 +34547,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-101",
+      "id": "other-intel-100",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -30960,7 +34564,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-102",
+      "id": "other-intel-101",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -30977,7 +34581,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-103",
+      "id": "other-intel-102",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -30994,7 +34598,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-104",
+      "id": "other-intel-103",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31011,7 +34615,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-105",
+      "id": "other-intel-104",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31028,7 +34632,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-106",
+      "id": "other-intel-105",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31045,7 +34649,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-107",
+      "id": "other-intel-106",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31062,7 +34666,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-108",
+      "id": "other-intel-107",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31079,7 +34683,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-109",
+      "id": "other-intel-108",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31096,7 +34700,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-110",
+      "id": "other-intel-109",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31113,7 +34717,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-111",
+      "id": "other-intel-110",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31130,7 +34734,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-112",
+      "id": "other-intel-111",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31147,7 +34751,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-113",
+      "id": "other-intel-112",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31164,7 +34768,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-114",
+      "id": "other-intel-113",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31181,7 +34785,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-115",
+      "id": "other-intel-114",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31198,7 +34802,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-116",
+      "id": "other-intel-115",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31215,7 +34819,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-117",
+      "id": "other-intel-116",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31232,7 +34836,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-118",
+      "id": "other-intel-117",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31249,7 +34853,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-119",
+      "id": "other-intel-118",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31266,7 +34870,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-120",
+      "id": "other-intel-119",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31283,7 +34887,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-121",
+      "id": "other-intel-120",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31300,7 +34904,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-122",
+      "id": "other-intel-121",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31317,7 +34921,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-123",
+      "id": "other-intel-122",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31334,7 +34938,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-124",
+      "id": "other-intel-123",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31351,7 +34955,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-125",
+      "id": "other-intel-124",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31368,7 +34972,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-126",
+      "id": "other-intel-125",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31385,7 +34989,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-127",
+      "id": "other-intel-126",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31402,7 +35006,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-128",
+      "id": "other-intel-127",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31419,7 +35023,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-129",
+      "id": "other-intel-128",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31436,7 +35040,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-130",
+      "id": "other-intel-129",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31453,7 +35057,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-131",
+      "id": "other-intel-130",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31470,7 +35074,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-132",
+      "id": "other-intel-131",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31487,7 +35091,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-133",
+      "id": "other-intel-132",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31504,7 +35108,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-134",
+      "id": "other-intel-133",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31521,7 +35125,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-135",
+      "id": "other-intel-134",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31538,7 +35142,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-136",
+      "id": "other-intel-135",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31555,7 +35159,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-137",
+      "id": "other-intel-136",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31572,7 +35176,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-138",
+      "id": "other-intel-137",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31589,7 +35193,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-139",
+      "id": "other-intel-138",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31606,7 +35210,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-140",
+      "id": "other-intel-139",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31623,7 +35227,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-141",
+      "id": "other-intel-140",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31640,7 +35244,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-142",
+      "id": "other-intel-141",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31657,7 +35261,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-143",
+      "id": "other-intel-142",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31674,7 +35278,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-144",
+      "id": "other-intel-143",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31691,7 +35295,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-145",
+      "id": "other-intel-144",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31708,7 +35312,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-146",
+      "id": "other-intel-145",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31725,7 +35329,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-147",
+      "id": "other-intel-146",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31742,7 +35346,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-148",
+      "id": "other-intel-147",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31759,7 +35363,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-149",
+      "id": "other-intel-148",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31776,7 +35380,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-150",
+      "id": "other-intel-149",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31793,7 +35397,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-151",
+      "id": "other-intel-150",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31810,7 +35414,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-152",
+      "id": "other-intel-151",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31827,7 +35431,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-153",
+      "id": "other-intel-152",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31844,7 +35448,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-154",
+      "id": "other-intel-153",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31861,7 +35465,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-155",
+      "id": "other-intel-154",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31878,7 +35482,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-156",
+      "id": "other-intel-155",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31895,7 +35499,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-157",
+      "id": "other-intel-156",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31912,7 +35516,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-158",
+      "id": "other-intel-157",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31929,7 +35533,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-159",
+      "id": "other-intel-158",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31946,7 +35550,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-160",
+      "id": "other-intel-159",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31963,7 +35567,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-161",
+      "id": "other-intel-160",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31980,7 +35584,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-162",
+      "id": "other-intel-161",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -31997,7 +35601,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-163",
+      "id": "other-intel-162",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32014,7 +35618,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-164",
+      "id": "other-intel-163",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32031,7 +35635,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-165",
+      "id": "other-intel-164",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32048,7 +35652,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-166",
+      "id": "other-intel-165",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32065,7 +35669,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-167",
+      "id": "other-intel-166",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32082,7 +35686,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-168",
+      "id": "other-intel-167",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32099,7 +35703,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-169",
+      "id": "other-intel-168",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32116,7 +35720,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-170",
+      "id": "other-intel-169",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32133,7 +35737,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-171",
+      "id": "other-intel-170",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32150,7 +35754,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-172",
+      "id": "other-intel-171",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32167,7 +35771,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-173",
+      "id": "other-intel-172",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32184,7 +35788,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-174",
+      "id": "other-intel-173",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32201,7 +35805,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-175",
+      "id": "other-intel-174",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32218,7 +35822,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-176",
+      "id": "other-intel-175",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32235,7 +35839,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-177",
+      "id": "other-intel-176",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32252,7 +35856,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-178",
+      "id": "other-intel-177",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32269,7 +35873,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-179",
+      "id": "other-intel-178",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32286,7 +35890,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-180",
+      "id": "other-intel-179",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32303,7 +35907,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-181",
+      "id": "other-intel-180",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32320,7 +35924,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-182",
+      "id": "other-intel-181",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32337,7 +35941,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-183",
+      "id": "other-intel-182",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32354,7 +35958,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-184",
+      "id": "other-intel-183",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32371,7 +35975,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-185",
+      "id": "other-intel-184",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32388,7 +35992,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-186",
+      "id": "other-intel-185",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32405,7 +36009,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-187",
+      "id": "other-intel-186",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32422,7 +36026,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-188",
+      "id": "other-intel-187",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32439,7 +36043,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-189",
+      "id": "other-intel-188",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32456,7 +36060,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-190",
+      "id": "other-intel-189",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32473,7 +36077,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-191",
+      "id": "other-intel-190",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32490,7 +36094,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-192",
+      "id": "other-intel-191",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32507,7 +36111,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-193",
+      "id": "other-intel-192",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32524,7 +36128,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-194",
+      "id": "other-intel-193",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32541,7 +36145,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-195",
+      "id": "other-intel-194",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32558,7 +36162,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-196",
+      "id": "other-intel-195",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32575,7 +36179,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-197",
+      "id": "other-intel-196",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32592,7 +36196,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-198",
+      "id": "other-intel-197",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32609,7 +36213,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-199",
+      "id": "other-intel-198",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32626,7 +36230,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-200",
+      "id": "other-intel-199",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32643,7 +36247,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-201",
+      "id": "other-intel-200",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32660,7 +36264,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-202",
+      "id": "other-intel-201",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32677,7 +36281,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-203",
+      "id": "other-intel-202",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32694,7 +36298,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-204",
+      "id": "other-intel-203",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32711,7 +36315,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-205",
+      "id": "other-intel-204",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32728,7 +36332,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-206",
+      "id": "other-intel-205",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32745,7 +36349,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-207",
+      "id": "other-intel-206",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32762,7 +36366,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-208",
+      "id": "other-intel-207",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32779,7 +36383,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-209",
+      "id": "other-intel-208",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32796,7 +36400,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-210",
+      "id": "other-intel-209",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32813,7 +36417,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-211",
+      "id": "other-intel-210",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32830,7 +36434,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-212",
+      "id": "other-intel-211",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32847,7 +36451,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-213",
+      "id": "other-intel-212",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32864,7 +36468,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-214",
+      "id": "other-intel-213",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32881,7 +36485,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-215",
+      "id": "other-intel-214",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32898,7 +36502,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-216",
+      "id": "other-intel-215",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32915,7 +36519,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-217",
+      "id": "other-intel-216",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32932,7 +36536,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-218",
+      "id": "other-intel-217",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32949,7 +36553,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-219",
+      "id": "other-intel-218",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32966,7 +36570,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-220",
+      "id": "other-intel-219",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -32983,7 +36587,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-221",
+      "id": "other-intel-220",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -33000,7 +36604,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-222",
+      "id": "other-intel-221",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -33017,7 +36621,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-223",
+      "id": "other-intel-222",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -33034,7 +36638,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-224",
+      "id": "other-intel-223",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -33051,7 +36655,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-225",
+      "id": "other-intel-224",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -33068,7 +36672,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-226",
+      "id": "other-intel-225",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -33085,7 +36689,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-227",
+      "id": "other-intel-226",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -33102,7 +36706,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-228",
+      "id": "other-intel-227",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -33119,7 +36723,7 @@
     },
     {
       "type": "Feature",
-      "id": "other-intel-229",
+      "id": "other-intel-228",
       "properties": {
         "category": "utility",
         "subtype": "intel",
@@ -35086,6 +38690,312 @@
         "coordinates": [
           145.458984,
           51.57707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-116",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -128.034668,
+          -23.402765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-117",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.71582,
+          -45.521744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-118",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.540527,
+          -40.094882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-119",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.077148,
+          -52.375599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-120",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.666504,
+          -42.277309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-121",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.421875,
+          -21.677848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-122",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.719727,
+          -4.740675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-123",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.654785,
+          -8.754795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-124",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.348633,
+          -15.707663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-125",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.361816,
+          -11.953349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-126",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.363281,
+          -52.683043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-127",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.427246,
+          -58.263287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-128",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.043457,
+          -58.031372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-129",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.120605,
+          -62.062733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-130",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.233887,
+          -64.273223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-131",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.083984,
+          -50.63901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-132",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.113281,
+          -58.263287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-truck-133",
+      "properties": {
+        "category": "stash",
+        "subtype": "truck",
+        "name": "Box Truck",
+        "icon": "truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.118164,
+          -62.17576
         ]
       }
     },
@@ -37228,6 +41138,244 @@
         "coordinates": [
           158.510742,
           53.579461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-127",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.681152,
+          4.390229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-128",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -140.141602,
+          -5.266008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-129",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.359375,
+          -10.552622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-130",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.592773,
+          -2.964984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-131",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.865723,
+          -9.470736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-132",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.075195,
+          -11.888853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-133",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.613281,
+          -18.958246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-134",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.995605,
+          -27.702984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-135",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.450684,
+          -34.034453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-136",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.083496,
+          -40.946714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-137",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.256348,
+          -47.872144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-138",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.271973,
+          -56.292157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-139",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -137.131348,
+          -33.523079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-cargo-140",
+      "properties": {
+        "category": "stash",
+        "subtype": "cargovan",
+        "name": "Cargo Van",
+        "icon": "cargovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -142.141113,
+          -28.940862
         ]
       }
     },
@@ -40101,6 +44249,40 @@
         "coordinates": [
           -49.240723,
           -75.748125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-golden-01",
+      "properties": {
+        "category": "stash",
+        "subtype": "golden",
+        "name": "Golden Gun",
+        "icon": "golden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.516113,
+          -48.79239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-golden-02",
+      "properties": {
+        "category": "stash",
+        "subtype": "golden",
+        "name": "Golden Gun",
+        "icon": "golden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.450684,
+          67.441229
         ]
       }
     }
