@@ -40,26 +40,90 @@ html, body {
 #legend label.sub {
   margin-left: 18px;
 }
+
+#info-button {
+  position: absolute;
+  top: 700px;
+  left: 25px; /* Adjust based on your legend width */
+  padding: 8px 12px;
+  background: #f0f0f0;
+  border-radius: 4px;
+  cursor: pointer;
+  z-index: 2; /* Higher than legend */
+}
+
+#info-window {
+  position: absolute;
+  top: 65%;
+  left: 8%;
+  transform: translate(-50%, -50%);
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+  z-index: 2000;
+  max-width: 400px;
+  max-height: 80%;
+  overflow-y: auto;
+}
+
+#info-close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 24px;
+  cursor: pointer;
+  color: #666;
+  font-weight: bold;
+}
+
+#info-close:hover {
+  color: #000;
+}
+
+#info-window h3 {
+  margin-top: 0;
+}
+
 </style>
 </head>
 
 <body>
 <div id="map"></div>
 <div id="legend"></div>
-
+<div id="info-button">ℹ Map Info</div>
+<div id="info-window" style="display: none;">
+  <div id="info-close">×</div>
+  <h3>REDSEC Interactive Map</h3>  
+  <p>created by JZee & Doomsday<br><br>
+  You can find us on the <a href="https://discord.gg/bfee" target="_blank">Battlefield Easter Egg Community </a> Discord server.
+  </p>
+  <p>Use the legend to toggle items.<br><br>
+  <B>A few notes:</B><br>
+● Vehicles have a 100% spawn rate.<br>
+● Ambulance and police vans are interchangeable.<br>
+● Crates are typically going to spawn the same each round.<br>
+● When Locked Safes & crates have 2 spawns in a building, one will spawn, the other will not.<br>
+● Intel cases have a high chance of spawning but are not guaranteed.<br>
+● The "Eagle" is an Eagle Container (green smoke locations)<br>
+● "Golden" are spawn locations for golden guns (they have unique names) We will be adding many more
+  </p>  
+</div>
 <script>
 /* =========================
    MAP INITIALIZATION
    ========================= */
 const map = new maplibregl.Map({
   container: 'map',
+  renderWorldCopies: false,
   style: {
     version: 8,
     sources: {
       'redsec-map': {
         type: 'raster',
         tiles: ['tiles/{z}/{x}/{y}.png'],
-        tileSize: 256
+        tileSize: 256,
+        wrap: false
       },
       'poi': {
         type: 'geojson',
@@ -83,13 +147,29 @@ const map = new maplibregl.Map({
 map.addControl(new maplibregl.NavigationControl());
 
 /* =========================
+   INFO WINDOW TOGGLE
+   ========================= */
+const infoButton = document.getElementById('info-button');
+const infoWindow = document.getElementById('info-window');
+const infoClose = document.getElementById('info-close');
+
+infoButton.addEventListener('click', () => {
+  infoWindow.style.display = 
+    infoWindow.style.display === 'none' ? 'block' : 'none';
+});
+
+infoClose.addEventListener('click', () => {
+  infoWindow.style.display = 'none';
+});
+
+/* =========================
    ICON + LAYER LOGIC
    ========================= */
 map.on('load', async () => {
 
   const legend = document.getElementById('legend');
   const catSubMap = {};
-
+ 
   /* ---- LOAD CATEGORY DEFINITIONS ---- */
   const categoryText = await fetch('data/categories.txt').then(r => r.text());
   const lines = categoryText.split('\n').filter(l => l.trim() !== '');
