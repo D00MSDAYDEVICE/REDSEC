@@ -44285,6 +44285,244 @@
           67.441229
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-golden-03",
+      "properties": {
+        "category": "stash",
+        "subtype": "golden",
+        "name": "Golden Gun",
+        "icon": "golden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -139.504395,
+          -64.004867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-golden-04",
+      "properties": {
+        "category": "stash",
+        "subtype": "golden",
+        "name": "Golden Gun",
+        "icon": "golden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -137.834473,
+          -66.116068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-golden-05",
+      "properties": {
+        "category": "stash",
+        "subtype": "golden",
+        "name": "Golden Gun",
+        "icon": "golden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.251953,
+          -66.921449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-golden-06",
+      "properties": {
+        "category": "stash",
+        "subtype": "golden",
+        "name": "Golden Gun",
+        "icon": "golden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.087891,
+          -74.253777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-golden-07",
+      "properties": {
+        "category": "stash",
+        "subtype": "golden",
+        "name": "Golden Gun",
+        "icon": "golden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -133.659668,
+          -74.265698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-golden-08",
+      "properties": {
+        "category": "stash",
+        "subtype": "golden",
+        "name": "Golden Gun",
+        "icon": "golden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.060547,
+          47.055154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-golden-09",
+      "properties": {
+        "category": "stash",
+        "subtype": "golden",
+        "name": "Golden Gun",
+        "icon": "golden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.181641,
+          49.993615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-golden-10",
+      "properties": {
+        "category": "stash",
+        "subtype": "golden",
+        "name": "Golden Gun",
+        "icon": "golden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.578613,
+          50.415519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-golden-11",
+      "properties": {
+        "category": "stash",
+        "subtype": "golden",
+        "name": "Golden Gun",
+        "icon": "golden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.203613,
+          55.254077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-golden-12",
+      "properties": {
+        "category": "stash",
+        "subtype": "golden",
+        "name": "Golden Gun",
+        "icon": "golden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.429199,
+          67.322924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-golden-13",
+      "properties": {
+        "category": "stash",
+        "subtype": "golden",
+        "name": "Golden Gun",
+        "icon": "golden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.742676,
+          30.524413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-golden-14",
+      "properties": {
+        "category": "stash",
+        "subtype": "golden",
+        "name": "Golden Gun",
+        "icon": "golden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.527344,
+          0.76902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-golden-15",
+      "properties": {
+        "category": "stash",
+        "subtype": "golden",
+        "name": "Golden Gun",
+        "icon": "golden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.084473,
+          -47.309034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stash-golden-16",
+      "properties": {
+        "category": "stash",
+        "subtype": "golden",
+        "name": "Golden Gun",
+        "icon": "golden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.734375,
+          -20.529933
+        ]
+      }
     }
   ]
 }
