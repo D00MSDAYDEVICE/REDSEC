@@ -1,4 +1,5 @@
 Utility:Redeploy,Resupply,Intel,Ziptower,Zipline
 Vehicle:Jeep,Tank,Helicopter,Boat,ATV,Golfcart
 Crate:Armory,Class,Tactical
-Stash:Safe,Van,Truck,Cargovan,MRAPV,Eagle,Golden
+Stash:Safe,Van,Truck,Cargovan,MRAPV
+Challenges:Exploration,Eagle,Golden
