@@ -42231,176 +42231,6 @@
     },
     {
       "type": "Feature",
-      "id": "stash-eagle-01",
-      "properties": {
-        "category": "stash",
-        "subtype": "eagle",
-        "name": "Eagle Container",
-        "icon": "eagle"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.333984,
-          -72.932538
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "stash-eagle-02",
-      "properties": {
-        "category": "stash",
-        "subtype": "eagle",
-        "name": "Eagle Container",
-        "icon": "eagle"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -15.46875,
-          -77.07387
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "stash-eagle-03",
-      "properties": {
-        "category": "stash",
-        "subtype": "eagle",
-        "name": "Eagle Container",
-        "icon": "eagle"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.587891,
-          -58.159112
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "stash-eagle-04",
-      "properties": {
-        "category": "stash",
-        "subtype": "eagle",
-        "name": "Eagle Container",
-        "icon": "eagle"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          71.564941,
-          -78.048346
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "stash-eagle-05",
-      "properties": {
-        "category": "stash",
-        "subtype": "eagle",
-        "name": "Eagle Container",
-        "icon": "eagle"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.075684,
-          -32.509762
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "stash-eagle-06",
-      "properties": {
-        "category": "stash",
-        "subtype": "eagle",
-        "name": "Eagle Container",
-        "icon": "eagle"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.104492,
-          3.995781
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "stash-eagle-07",
-      "properties": {
-        "category": "stash",
-        "subtype": "eagle",
-        "name": "Eagle Container",
-        "icon": "eagle"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          42.60498,
-          64.177679
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "stash-eagle-08",
-      "properties": {
-        "category": "stash",
-        "subtype": "eagle",
-        "name": "Eagle Container",
-        "icon": "eagle"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -39.133301,
-          75.241866
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "stash-eagle-09",
-      "properties": {
-        "category": "stash",
-        "subtype": "eagle",
-        "name": "Eagle Container",
-        "icon": "eagle"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.672852,
-          5.900189
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "stash-eagle-10",
-      "properties": {
-        "category": "stash",
-        "subtype": "eagle",
-        "name": "Eagle Container",
-        "icon": "eagle"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          141.130371,
-          65.385147
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "other-zipline-01",
       "properties": {
         "category": "utility",
@@ -44254,9 +44084,9 @@
     },
     {
       "type": "Feature",
-      "id": "stash-golden-01",
+      "id": "challenge-golden-01",
       "properties": {
-        "category": "stash",
+        "category": "challenges",
         "subtype": "golden",
         "name": "On top of tank turret.",
         "icon": "golden"
@@ -44271,9 +44101,9 @@
     },
     {
       "type": "Feature",
-      "id": "stash-golden-02",
+      "id": "challenge-golden-02",
       "properties": {
-        "category": "stash",
+        "category": "challenges",
         "subtype": "golden",
         "name": "On top of ATC tower - NW Corner.",
         "icon": "golden"
@@ -44288,9 +44118,9 @@
     },
     {
       "type": "Feature",
-      "id": "stash-golden-03",
+      "id": "challenge-golden-03",
       "properties": {
-        "category": "stash",
+        "category": "challenges",
         "subtype": "golden",
         "name": "On the NW rail of the lifeguard hut.",
         "icon": "golden"
@@ -44305,9 +44135,9 @@
     },
     {
       "type": "Feature",
-      "id": "stash-golden-04",
+      "id": "challenge-golden-04",
       "properties": {
-        "category": "stash",
+        "category": "challenges",
         "subtype": "golden",
         "name": "On top of a netted crate.",
         "icon": "golden"
@@ -44322,9 +44152,9 @@
     },
     {
       "type": "Feature",
-      "id": "stash-golden-05",
+      "id": "challenge-golden-05",
       "properties": {
-        "category": "stash",
+        "category": "challenges",
         "subtype": "golden",
         "name": "On top of a netted crate.",
         "icon": "golden"
@@ -44339,9 +44169,9 @@
     },
     {
       "type": "Feature",
-      "id": "stash-golden-06",
+      "id": "challenge-golden-06",
       "properties": {
-        "category": "stash",
+        "category": "challenges",
         "subtype": "golden",
         "name": "At the top laying on the reflector.",
         "icon": "golden"
@@ -44356,9 +44186,9 @@
     },
     {
       "type": "Feature",
-      "id": "stash-golden-07",
+      "id": "challenge-golden-07",
       "properties": {
-        "category": "stash",
+        "category": "challenges",
         "subtype": "golden",
         "name": "On the second balcony.",
         "icon": "golden"
@@ -44373,9 +44203,9 @@
     },
     {
       "type": "Feature",
-      "id": "stash-golden-08",
+      "id": "challenge-golden-08",
       "properties": {
-        "category": "stash",
+        "category": "challenges",
         "subtype": "golden",
         "name": "On boat deck debris.",
         "icon": "golden"
@@ -44390,9 +44220,9 @@
     },
     {
       "type": "Feature",
-      "id": "stash-golden-09",
+      "id": "challenge-golden-09",
       "properties": {
-        "category": "stash",
+        "category": "challenges",
         "subtype": "golden",
         "name": "Underneath the bridge support",
         "icon": "golden"
@@ -44407,9 +44237,9 @@
     },
     {
       "type": "Feature",
-      "id": "stash-golden-10",
+      "id": "challenge-golden-10",
       "properties": {
-        "category": "stash",
+        "category": "challenges",
         "subtype": "golden",
         "name": "On the bridge next to destroyed truck.",
         "icon": "golden"
@@ -44424,9 +44254,9 @@
     },
     {
       "type": "Feature",
-      "id": "stash-golden-11",
+      "id": "challenge-golden-11",
       "properties": {
-        "category": "stash",
+        "category": "challenges",
         "subtype": "golden",
         "name": "On top of the right wing tip.",
         "icon": "golden"
@@ -44441,9 +44271,9 @@
     },
     {
       "type": "Feature",
-      "id": "stash-golden-12",
+      "id": "challenge-golden-12",
       "properties": {
-        "category": "stash",
+        "category": "challenges",
         "subtype": "golden",
         "name": "On top of ATC tower - SW Corner.",
         "icon": "golden"
@@ -44458,9 +44288,9 @@
     },
     {
       "type": "Feature",
-      "id": "stash-golden-13",
+      "id": "challenge-golden-13",
       "properties": {
-        "category": "stash",
+        "category": "challenges",
         "subtype": "golden",
         "name": "On top of destroyed tank debris.",
         "icon": "golden"
@@ -44475,9 +44305,9 @@
     },
     {
       "type": "Feature",
-      "id": "stash-golden-14",
+      "id": "challenge-golden-14",
       "properties": {
-        "category": "stash",
+        "category": "challenges",
         "subtype": "golden",
         "name": "In the secret tunnel.",
         "icon": "golden"
@@ -44492,9 +44322,9 @@
     },
     {
       "type": "Feature",
-      "id": "stash-golden-15",
+      "id": "challenge-golden-15",
       "properties": {
-        "category": "stash",
+        "category": "challenges",
         "subtype": "golden",
         "name": "On top of the crane.",
         "icon": "golden"
@@ -44509,9 +44339,9 @@
     },
     {
       "type": "Feature",
-      "id": "stash-golden-16",
+      "id": "challenge-golden-16",
       "properties": {
-        "category": "stash",
+        "category": "challenges",
         "subtype": "golden",
         "name": "Bottom of the parking gargae just inside the tunnel door.",
         "icon": "golden"
@@ -44521,6 +44351,346 @@
         "coordinates": [
           -97.734375,
           -20.529933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "challenges-eagle-01",
+      "properties": {
+        "category": "challenges",
+        "subtype": "eagle",
+        "name": "Eagle Container",
+        "icon": "eagle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.333984,
+          -72.932538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "challenges-eagle-02",
+      "properties": {
+        "category": "challenges",
+        "subtype": "eagle",
+        "name": "Eagle Container",
+        "icon": "eagle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.46875,
+          -77.07387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "challenges-eagle-03",
+      "properties": {
+        "category": "challenges",
+        "subtype": "eagle",
+        "name": "Eagle Container",
+        "icon": "eagle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.587891,
+          -58.159112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "challenges-eagle-04",
+      "properties": {
+        "category": "challenges",
+        "subtype": "eagle",
+        "name": "Eagle Container",
+        "icon": "eagle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.564941,
+          -78.048346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "challenges-eagle-05",
+      "properties": {
+        "category": "challenges",
+        "subtype": "eagle",
+        "name": "Eagle Container",
+        "icon": "eagle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.075684,
+          -32.509762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "challenges-eagle-06",
+      "properties": {
+        "category": "challenges",
+        "subtype": "eagle",
+        "name": "Eagle Container",
+        "icon": "eagle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.104492,
+          3.995781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "challenges-eagle-07",
+      "properties": {
+        "category": "challenges",
+        "subtype": "eagle",
+        "name": "Eagle Container",
+        "icon": "eagle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.60498,
+          64.177679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "challenges-eagle-08",
+      "properties": {
+        "category": "challenges",
+        "subtype": "eagle",
+        "name": "Eagle Container",
+        "icon": "eagle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.133301,
+          75.241866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "challenges-eagle-09",
+      "properties": {
+        "category": "challenges",
+        "subtype": "eagle",
+        "name": "Eagle Container",
+        "icon": "eagle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.672852,
+          5.900189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "challenges-eagle-10",
+      "properties": {
+        "category": "challenges",
+        "subtype": "eagle",
+        "name": "Eagle Container",
+        "icon": "eagle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.130371,
+          65.385147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "challenge-explore-01",
+      "properties": {
+        "category": "challenges",
+        "subtype": "explore",
+        "name": "Exploration Location",
+        "icon": "explore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -180.0,
+          85.051129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "challenge-explore-02",
+      "properties": {
+        "category": "challenges",
+        "subtype": "explore",
+        "name": "Exploration Location",
+        "icon": "explore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -180.0,
+          85.051129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "challenge-explore-03",
+      "properties": {
+        "category": "challenges",
+        "subtype": "explore",
+        "name": "Exploration Location",
+        "icon": "explore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -180.0,
+          85.051129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "challenge-explore-04",
+      "properties": {
+        "category": "challenges",
+        "subtype": "explore",
+        "name": "Exploration Location",
+        "icon": "explore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -180.0,
+          85.051129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "challenge-explore-05",
+      "properties": {
+        "category": "challenges",
+        "subtype": "explore",
+        "name": "Exploration Location",
+        "icon": "explore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -180.0,
+          85.051129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "challenge-explore-06",
+      "properties": {
+        "category": "challenges",
+        "subtype": "explore",
+        "name": "Exploration Location",
+        "icon": "explore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -180.0,
+          85.051129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "challenge-explore-07",
+      "properties": {
+        "category": "challenges",
+        "subtype": "explore",
+        "name": "Exploration Location",
+        "icon": "explore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -180.0,
+          85.051129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "challenge-explore-08",
+      "properties": {
+        "category": "challenges",
+        "subtype": "explore",
+        "name": "Exploration Location",
+        "icon": "explore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -180.0,
+          85.051129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "challenge-explore-09",
+      "properties": {
+        "category": "challenges",
+        "subtype": "explore",
+        "name": "Exploration Location",
+        "icon": "explore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -180.0,
+          85.051129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "challenge-explore-10",
+      "properties": {
+        "category": "challenges",
+        "subtype": "explore",
+        "name": "Exploration Location",
+        "icon": "explore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -180.0,
+          85.051129
         ]
       }
     }
