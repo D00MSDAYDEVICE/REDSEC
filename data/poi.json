@@ -2774,6 +2774,23 @@
     },
     {
       "type": "Feature",
+      "id": "vehicle-helicopter-09",
+      "properties": {
+        "category": "vehicle",
+        "subtype": "helicopter",
+        "name": "Helicopter 09",
+        "icon": "helicopter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.032715,
+          71.951778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "vehicle-boat-01",
       "properties": {
         "category": "vehicle",
@@ -31004,7 +31021,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -157.478027,
+          40.275879,
           -72.567668
         ]
       }
