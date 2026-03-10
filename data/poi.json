@@ -21869,7 +21869,7 @@
       "properties": {
         "category": "crate",
         "subtype": "class",
-        "name": "[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[",
+        "name": "Class Crate",
         "icon": "class"
       },
       "geometry": {
@@ -44547,14 +44547,14 @@
       "properties": {
         "category": "challenges",
         "subtype": "explore",
-        "name": "Exploration Location",
+        "name": "Discover the bridge in the Marina District.",
         "icon": "explore"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -180.0,
-          85.051129
+          -146.403809,
+          50.583237
         ]
       }
     },
@@ -44564,14 +44564,14 @@
       "properties": {
         "category": "challenges",
         "subtype": "explore",
-        "name": "Exploration Location",
+        "name": "Discover the crashed plane's attached wing in Fleetview Ridge.",
         "icon": "explore"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -180.0,
-          85.051129
+          -66.621094,
+          54.737308
         ]
       }
     },
@@ -44581,14 +44581,14 @@
       "properties": {
         "category": "challenges",
         "subtype": "explore",
-        "name": "Exploration Location",
+        "name": "Discover the B2 parking garage tunnel connected to the Crow's Nest Downtown.",
         "icon": "explore"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -180.0,
-          85.051129
+          -102.941895,
+          -11.092166
         ]
       }
     },
@@ -44598,14 +44598,14 @@
       "properties": {
         "category": "challenges",
         "subtype": "explore",
-        "name": "Exploration Location",
+        "name": "Discover the bar at the Vista Reyes Country Club.",
         "icon": "explore"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -180.0,
-          85.051129
+          -16.54541,
+          52.522906
         ]
       }
     },
@@ -44615,14 +44615,14 @@
       "properties": {
         "category": "challenges",
         "subtype": "explore",
-        "name": "Exploration Location",
+        "name": "Discover the oil refinery near Chemical Storage.",
         "icon": "explore"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -180.0,
-          85.051129
+          73.125,
+          16.109153
         ]
       }
     },
@@ -44632,14 +44632,14 @@
       "properties": {
         "category": "challenges",
         "subtype": "explore",
-        "name": "Exploration Location",
+        "name": "Discover the air traffic control tower in Area 22B",
         "icon": "explore"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -180.0,
-          85.051129
+          89.714355,
+          66.539517
         ]
       }
     },
@@ -44649,14 +44649,14 @@
       "properties": {
         "category": "challenges",
         "subtype": "explore",
-        "name": "Exploration Location",
+        "name": "Discover a radar dome in the Radar and Communications area.",
         "icon": "explore"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -180.0,
-          85.051129
+          157.961426,
+          -59.523176
         ]
       }
     },
@@ -44666,14 +44666,14 @@
       "properties": {
         "category": "challenges",
         "subtype": "explore",
-        "name": "Exploration Location",
+        "name": "Discover the D-06 vehicle repair bay near Redline Storage.",
         "icon": "explore"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -180.0,
-          85.051129
+          89.692383,
+          -46.362093
         ]
       }
     },
@@ -44683,14 +44683,14 @@
       "properties": {
         "category": "challenges",
         "subtype": "explore",
-        "name": "Exploration Location",
+        "name": "Discover Walker-Senex's rooftop patio.",
         "icon": "explore"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -180.0,
-          85.051129
+          -11.206055,
+          -46.301406
         ]
       }
     },
@@ -44700,14 +44700,184 @@
       "properties": {
         "category": "challenges",
         "subtype": "explore",
-        "name": "Exploration Location",
+        "name": "Discover the Chavel Noir shop in the Boutique District.",
         "icon": "explore"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -180.0,
-          85.051129
+          -107.314453,
+          -57.267164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "challenge-explore-11",
+      "properties": {
+        "category": "challenges",
+        "subtype": "explore",
+        "name": "Discover the mounted crab inside the Lyndon Point Lighthouse.",
+        "icon": "explore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.384766,
+          -74.525752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "challenge-explore-12",
+      "properties": {
+        "category": "challenges",
+        "subtype": "explore",
+        "name": "Discover the tennis courts in Ocean Park.",
+        "icon": "explore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.98584,
+          -28.246328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "challenge-explore-13",
+      "properties": {
+        "category": "challenges",
+        "subtype": "explore",
+        "name": "Discover the docks at Jewel Beach.",
+        "icon": "explore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.808105,
+          -2.547988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "challenge-explore-14",
+      "properties": {
+        "category": "challenges",
+        "subtype": "explore",
+        "name": "Discover the radar array near Combat Training.",
+        "icon": "explore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.654297,
+          62.835089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "challenge-explore-15",
+      "properties": {
+        "category": "challenges",
+        "subtype": "explore",
+        "name": "Discover the epicenter of the explosion.",
+        "icon": "explore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.901367,
+          13.090179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "challenge-explore-16",
+      "properties": {
+        "category": "challenges",
+        "subtype": "explore",
+        "name": "Discover the secret tunnel near The Seal.",
+        "icon": "explore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.571289,
+          1.406109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "challenge-explore-17",
+      "properties": {
+        "category": "challenges",
+        "subtype": "explore",
+        "name": "Discover the sediment tanks in the Fort Lyndon Treatment Plant.",
+        "icon": "explore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.431152,
+          -71.869909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "challenge-explore-18",
+      "properties": {
+        "category": "challenges",
+        "subtype": "explore",
+        "name": "Discover the Fort Lyndon Gate checkpoint.",
+        "icon": "explore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.242676,
+          -69.542199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "challenge-explore-19",
+      "properties": {
+        "category": "challenges",
+        "subtype": "explore",
+        "name": "Discover the Golden Anchor restaurant.",
+        "icon": "explore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.461426,
+          -80.390065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "challenge-explore-20",
+      "properties": {
+        "category": "challenges",
+        "subtype": "explore",
+        "name": "Discover the oil pump jacks at the Lyndon Oilworks.",
+        "icon": "explore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.507812,
+          -48.487486
         ]
       }
     }
