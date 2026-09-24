@@ -45050,6 +45050,57 @@
           -81.24166
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": "challenge-phantomfragment-03",
+      "properties": {
+        "category": "challenges",
+        "subtype": "fragment",
+        "name": "Phantom Fragment",
+        "icon": "fragment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.348145,
+          -53.028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "challenge-phantomfragment-04",
+      "properties": {
+        "category": "challenges",
+        "subtype": "fragment",
+        "name": "Phantom Fragment",
+        "icon": "fragment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.526367,
+          -77.864964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "challenge-phantomfragment-05",
+      "properties": {
+        "category": "challenges",
+        "subtype": "fragment",
+        "name": "Phantom Fragment",
+        "icon": "fragment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.324219,
+          -72.355789
+        ]
+      }
     }
   ]
 }
