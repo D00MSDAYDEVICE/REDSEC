@@ -44548,7 +44548,7 @@
         "category": "challenges",
         "subtype": "exploration",
         "name": "Discover the bridge in the Marina District.",
-        "icon": "explore"
+        "icon": "exploration"
       },
       "geometry": {
         "type": "Point",
@@ -44565,7 +44565,7 @@
         "category": "challenges",
         "subtype": "exploration",
         "name": "Discover the crashed plane's attached wing in Fleetview Ridge.",
-        "icon": "explore"
+        "icon": "exploration"
       },
       "geometry": {
         "type": "Point",
@@ -44582,7 +44582,7 @@
         "category": "challenges",
         "subtype": "exploration",
         "name": "Discover the B2 parking garage tunnel connected to the Crow's Nest Downtown.",
-        "icon": "explore"
+        "icon": "exploration"
       },
       "geometry": {
         "type": "Point",
@@ -44599,7 +44599,7 @@
         "category": "challenges",
         "subtype": "exploration",
         "name": "Discover the bar at the Vista Reyes Country Club.",
-        "icon": "explore"
+        "icon": "exploration"
       },
       "geometry": {
         "type": "Point",
@@ -44616,7 +44616,7 @@
         "category": "challenges",
         "subtype": "exploration",
         "name": "Discover the oil refinery near Chemical Storage.",
-        "icon": "explore"
+        "icon": "exploration"
       },
       "geometry": {
         "type": "Point",
@@ -44633,7 +44633,7 @@
         "category": "challenges",
         "subtype": "exploration",
         "name": "Discover the air traffic control tower in Area 22B",
-        "icon": "explore"
+        "icon": "exploration"
       },
       "geometry": {
         "type": "Point",
@@ -44650,7 +44650,7 @@
         "category": "challenges",
         "subtype": "exploration",
         "name": "Discover a radar dome in the Radar and Communications area.",
-        "icon": "explore"
+        "icon": "exploration"
       },
       "geometry": {
         "type": "Point",
@@ -44667,7 +44667,7 @@
         "category": "challenges",
         "subtype": "exploration",
         "name": "Discover the D-06 vehicle repair bay near Redline Storage.",
-        "icon": "explore"
+        "icon": "exploration"
       },
       "geometry": {
         "type": "Point",
@@ -44684,7 +44684,7 @@
         "category": "challenges",
         "subtype": "exploration",
         "name": "Discover Walker-Senex's rooftop patio.",
-        "icon": "explore"
+        "icon": "exploration"
       },
       "geometry": {
         "type": "Point",
@@ -44701,7 +44701,7 @@
         "category": "challenges",
         "subtype": "exploration",
         "name": "Discover the Chavel Noir shop in the Boutique District.",
-        "icon": "explore"
+        "icon": "exploration"
       },
       "geometry": {
         "type": "Point",
@@ -44718,7 +44718,7 @@
         "category": "challenges",
         "subtype": "exploration",
         "name": "Discover the mounted crab inside the Lyndon Point Lighthouse.",
-        "icon": "explore"
+        "icon": "exploration"
       },
       "geometry": {
         "type": "Point",
@@ -44735,7 +44735,7 @@
         "category": "challenges",
         "subtype": "exploration",
         "name": "Discover the tennis courts in Ocean Park.",
-        "icon": "explore"
+        "icon": "exploration"
       },
       "geometry": {
         "type": "Point",
@@ -44752,7 +44752,7 @@
         "category": "challenges",
         "subtype": "exploration",
         "name": "Discover the docks at Jewel Beach.",
-        "icon": "explore"
+        "icon": "exploration"
       },
       "geometry": {
         "type": "Point",
@@ -44769,7 +44769,7 @@
         "category": "challenges",
         "subtype": "exploration",
         "name": "Discover the radar array near Combat Training.",
-        "icon": "explore"
+        "icon": "exploration"
       },
       "geometry": {
         "type": "Point",
@@ -44786,7 +44786,7 @@
         "category": "challenges",
         "subtype": "exploration",
         "name": "Discover the epicenter of the explosion.",
-        "icon": "explore"
+        "icon": "exploration"
       },
       "geometry": {
         "type": "Point",
@@ -44803,7 +44803,7 @@
         "category": "challenges",
         "subtype": "exploration",
         "name": "Discover the secret tunnel near The Seal.",
-        "icon": "explore"
+        "icon": "exploration"
       },
       "geometry": {
         "type": "Point",
@@ -44820,7 +44820,7 @@
         "category": "challenges",
         "subtype": "exploration",
         "name": "Discover the sediment tanks in the Fort Lyndon Treatment Plant.",
-        "icon": "explore"
+        "icon": "exploration"
       },
       "geometry": {
         "type": "Point",
@@ -44837,7 +44837,7 @@
         "category": "challenges",
         "subtype": "exploration",
         "name": "Discover the Fort Lyndon Gate checkpoint.",
-        "icon": "explore"
+        "icon": "exploration"
       },
       "geometry": {
         "type": "Point",
@@ -44854,7 +44854,7 @@
         "category": "challenges",
         "subtype": "exploration",
         "name": "Discover the Golden Anchor restaurant.",
-        "icon": "explore"
+        "icon": "exploration"
       },
       "geometry": {
         "type": "Point",
@@ -44871,13 +44871,149 @@
         "category": "challenges",
         "subtype": "exploration",
         "name": "Discover the oil pump jacks at the Lyndon Oilworks.",
-        "icon": "explore"
+        "icon": "exploration"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           35.507812,
           -48.487486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "challenge-phantombox-01",
+      "properties": {
+        "category": "challenges",
+        "subtype": "phantom",
+        "name": "Phantom Crate",
+        "icon": "phantom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.07373,
+          -79.030078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "challenge-phantombox-02",
+      "properties": {
+        "category": "challenges",
+        "subtype": "phantom",
+        "name": "Phantom Crate",
+        "icon": "phantom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.98584,
+          -79.030078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "challenge-phantombox-03",
+      "properties": {
+        "category": "challenges",
+        "subtype": "phantom",
+        "name": "Phantom Crate",
+        "icon": "phantom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.322754,
+          -79.851093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "challenge-phantombox-04",
+      "properties": {
+        "category": "challenges",
+        "subtype": "phantom",
+        "name": "Phantom Crate",
+        "icon": "phantom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.566895,
+          -82.577596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "challenge-phantombox-05",
+      "properties": {
+        "category": "challenges",
+        "subtype": "phantom",
+        "name": "Phantom Crate",
+        "icon": "phantom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.062012,
+          -82.867037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "challenge-phantombox-06",
+      "properties": {
+        "category": "challenges",
+        "subtype": "phantom",
+        "name": "Phantom Crate",
+        "icon": "phantom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.673828,
+          -83.364591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "challenge-phantombox-07",
+      "properties": {
+        "category": "challenges",
+        "subtype": "phantom",
+        "name": "Phantom Crate",
+        "icon": "phantom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.835938,
+          -83.272559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "challenge-phantombox-08",
+      "properties": {
+        "category": "challenges",
+        "subtype": "phantom",
+        "name": "Phantom Crate",
+        "icon": "phantom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.248535,
+          -84.339148
         ]
       }
     }
