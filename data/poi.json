@@ -45186,6 +45186,142 @@
           -51.330612
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": "challenge-bunkerentrance-01",
+      "properties": {
+        "category": "challenges",
+        "subtype": "bunker",
+        "name": "Bunker Entrance",
+        "icon": "bunker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.667969,
+          48.994636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "challenge-bunkerentrance-02",
+      "properties": {
+        "category": "challenges",
+        "subtype": "bunker",
+        "name": "Bunker Entrance",
+        "icon": "bunker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.072754,
+          40.563895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "challenge-bunkerentrance-03",
+      "properties": {
+        "category": "challenges",
+        "subtype": "bunker",
+        "name": "Bunker Entrance",
+        "icon": "bunker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.444336,
+          42.714732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "challenge-bunkerentrance-04",
+      "properties": {
+        "category": "challenges",
+        "subtype": "bunker",
+        "name": "Bunker Entrance",
+        "icon": "bunker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.664551,
+          35.550105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "challenge-bunkerentrance-05",
+      "properties": {
+        "category": "challenges",
+        "subtype": "bunker",
+        "name": "Bunker Entrance",
+        "icon": "bunker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.133789,
+          33.797409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "challenge-bunkerentrance-06",
+      "properties": {
+        "category": "challenges",
+        "subtype": "bunker",
+        "name": "Bunker Entrance",
+        "icon": "bunker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.227051,
+          29.592565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "challenge-bunkerentrance-07",
+      "properties": {
+        "category": "challenges",
+        "subtype": "bunker",
+        "name": "Bunker Entrance",
+        "icon": "bunker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.443359,
+          23.563987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "challenge-bunkerentrance-08",
+      "properties": {
+        "category": "challenges",
+        "subtype": "bunker",
+        "name": "Bunker Entrance",
+        "icon": "bunker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.20752,
+          16.27796
+        ]
+      }
     }
   ]
 }
