@@ -18,18 +18,29 @@ html, body {
   background: #000;
 }
 
-#legend {
+/* Sidebar holds the legend and the info button, stacked */
+#sidebar {
   position: absolute;
   top: 10px;
   left: 10px;
+  bottom: 10px;            /* never taller than the window */
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  z-index: 1;
+  pointer-events: none;    /* empty space below doesn't block the map */
+}
+
+#legend {
   background: rgba(255,255,255,0.9);
   padding: 10px;
   font-family: sans-serif;
   font-size: 14px;
   border-radius: 5px;
-  z-index: 1;
-  max-height: 90%;
+  min-height: 0;           /* lets it shrink and scroll inside the flex column */
   overflow-y: auto;
+  pointer-events: auto;
 }
 
 #legend label {
@@ -42,14 +53,13 @@ html, body {
 }
 
 #info-button {
-  position: absolute;
-  top: 700px;
-  left: 25px; /* Adjust based on your legend width */
+  flex-shrink: 0;          /* always visible below the legend */
   padding: 8px 12px;
   background: #f0f0f0;
   border-radius: 4px;
   cursor: pointer;
-  z-index: 2; /* Higher than legend */
+  font-family: sans-serif;
+  pointer-events: auto;
 }
 
 #info-window {
@@ -90,8 +100,10 @@ html, body {
 
 <body>
 <div id="map"></div>
-<div id="legend"></div>
-<div id="info-button">ℹ Map Info</div>
+<div id="sidebar">
+  <div id="legend"></div>
+  <div id="info-button">ℹ Map Info</div>
+</div>
 <div id="info-window" style="display: none;">
   <div id="info-close">×</div>
   <h3>REDSEC Interactive Map</h3>  
@@ -163,9 +175,18 @@ infoClose.addEventListener('click', () => {
 });
 
 /* =========================
+   DEFAULT LEGEND SELECTION
+   Subcategories listed here are ON when the map loads; everything else is OFF.
+   Use the names from categories.txt (case doesn't matter).
+   Set to null to turn everything on.
+   ========================= */
+const DEFAULT_ON = ['Redeploy', 'Ziptower', 'Zipline', 'Phantom'];
+
+/* =========================
    ICON + LAYER LOGIC
    ========================= */
 map.on('load', async () => {
+  const defaultOn = DEFAULT_ON && new Set(DEFAULT_ON.map(s => s.trim().toLowerCase()));
 
   const legend = document.getElementById('legend');
   const catSubMap = {};
@@ -215,6 +236,7 @@ map.on('load', async () => {
       const subKey = sub.trim().toLowerCase();
       const subId = `${catId}-${subKey.replace(/\s+/g, '-')}`;
       catSubMap[catId].push(subId);
+      const isOn = !defaultOn || defaultOn.has(subKey);
 
       map.addLayer({
         id: subId,
@@ -228,17 +250,30 @@ map.on('load', async () => {
         layout: {
           'icon-image': subKey,
           'icon-size': 0.5,
-          'icon-allow-overlap': true
+          'icon-allow-overlap': true,
+          'visibility': isOn ? 'visible' : 'none'
         }
       });
 
       const subLabel = document.createElement('label');
       subLabel.className = 'sub';
       subLabel.innerHTML =
-        `<input type="checkbox" data-layer="${subId}" checked> ${sub}`;
+        `<input type="checkbox" data-layer="${subId}"${isOn ? ' checked' : ''}> ${sub}`;
       legend.appendChild(subLabel);
     });
   });
+
+  /* ---- PARENT CHECKBOX STATE ----
+     Checked = all children on, dash (indeterminate) = some on, empty = none */
+  const updateParent = catId => {
+    const parentCb = legend.querySelector(`input[data-layer="${catId}"]`);
+    const kids = catSubMap[catId].map(id =>
+      legend.querySelector(`input[data-layer="${id}"]`));
+    const onCount = kids.filter(k => k && k.checked).length;
+    parentCb.checked = onCount === kids.length;
+    parentCb.indeterminate = onCount > 0 && onCount < kids.length;
+  };
+  Object.keys(catSubMap).forEach(updateParent);
 
   /* ---- CHECKBOX HANDLING ---- */
   legend.querySelectorAll('input[type="checkbox"]').forEach(cb => {
@@ -263,6 +298,11 @@ map.on('load', async () => {
             }
           }
         });
+      } else {
+        /* Child changed: refresh its parent's checked/dash state */
+        const parentId = Object.keys(catSubMap)
+          .find(c => catSubMap[c].includes(layerId));
+        if (parentId) updateParent(parentId);
       }
     });
   });
