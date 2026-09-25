@@ -183,6 +183,35 @@ infoClose.addEventListener('click', () => {
 const DEFAULT_ON = ['Redeploy', 'Ziptower', 'Zipline', 'Phantom', 'Fragment', 'Bunker'];
 
 /* =========================
+   IMAGE OVERLAYS
+   Subcategories listed here are drawn as an image pinned to the map
+   (exact width/height, zooms with the map) instead of as a pin icon.
+   The legend checkbox toggles it like any other item.
+     url     : image file
+     x, y    : CENTRE of the image in map pixels (same numbers as poi.csv)
+     width,
+     height  : how big it should be in map pixels (16384 = full map width).
+               Use the image's real size for 1:1. If you shrink the file
+               itself, keep these the same and it will still cover the same area.
+   ========================= */
+const OVERLAYS = {
+  symbols: { url: 'icons/symbols.png', x: 2863, y: 15512, width: 4819, height: 1535 }
+};
+
+const MAP_PX = 16384;  // must match IMAGE_SIZE in csv2poi.py
+function pxToLngLat(px, py) {
+  const lon = px / MAP_PX * 360 - 180;
+  const lat = 180 / Math.PI * (2 * Math.atan(Math.exp(Math.PI * (1 - 2 * py / MAP_PX))) - Math.PI / 2);
+  return [lon, lat];
+}
+function overlayCorners(o) {
+  const l = o.x - o.width / 2, r = o.x + o.width / 2;
+  const t = o.y - o.height / 2, b = o.y + o.height / 2;
+  // order required by MapLibre: top-left, top-right, bottom-right, bottom-left
+  return [pxToLngLat(l, t), pxToLngLat(r, t), pxToLngLat(r, b), pxToLngLat(l, b)];
+}
+
+/* =========================
    ICON + LAYER LOGIC
    ========================= */
 map.on('load', async () => {
@@ -190,6 +219,7 @@ map.on('load', async () => {
 
   const legend = document.getElementById('legend');
   const catSubMap = {};
+  let firstPinLayer = null;
  
   /* ---- LOAD CATEGORY DEFINITIONS ---- */
   const categoryText = await fetch('data/categories.txt').then(r => r.text());
@@ -207,6 +237,7 @@ map.on('load', async () => {
 
   /* ---- LOAD ICONS BEFORE ADDING ANY LAYERS ---- */
   for (const icon of iconNames) {
+    if (OVERLAYS[icon]) continue;   // overlays are loaded as images, not icons
     await new Promise(resolve => {
       map.loadImage(`icons/${icon}.png`, (err, image) => {
         if (!err && !map.hasImage(icon)) {
@@ -238,6 +269,23 @@ map.on('load', async () => {
       catSubMap[catId].push(subId);
       const isOn = !defaultOn || defaultOn.has(subKey);
 
+      if (OVERLAYS[subKey]) {
+        const o = OVERLAYS[subKey];
+        map.addSource(subId, {
+          type: 'image',
+          url: o.url,
+          coordinates: overlayCorners(o)
+        });
+        // insert below the first pin layer so pins stay on top
+        map.addLayer({
+          id: subId,
+          type: 'raster',
+          source: subId,
+          layout: { 'visibility': isOn ? 'visible' : 'none' },
+          paint: { 'raster-fade-duration': 0 }
+        }, firstPinLayer || undefined);
+      } else {
+      if (!firstPinLayer) firstPinLayer = subId;
       map.addLayer({
         id: subId,
         type: 'symbol',
@@ -254,6 +302,7 @@ map.on('load', async () => {
           'visibility': isOn ? 'visible' : 'none'
         }
       });
+      }
 
       const subLabel = document.createElement('label');
       subLabel.className = 'sub';
@@ -327,4 +376,3 @@ map.on('click', e => {
 </body>
 
 </html>
-
