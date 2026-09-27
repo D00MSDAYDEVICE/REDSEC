@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>REDSEC Battle Royale Map</title>
+
+<link href="https://unpkg.com/maplibre-gl@3.6.0/dist/maplibre-gl.css" rel="stylesheet" />
+<script src="https://unpkg.com/maplibre-gl@3.6.0/dist/maplibre-gl.js"></script>
+
+<style>
+html, body {
+  margin: 0;
+  height: 100%;
+}
+#map {
+  width: 100%;
+  height: 100%;
+  background: #000;
+}
+
+#legend {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  background: rgba(255,255,255,0.9);
+  padding: 10px;
+  font-family: sans-serif;
+  font-size: 14px;
+  border-radius: 5px;
+  z-index: 1;
+  max-height: 90%;
+  overflow-y: auto;
+}
+
+#legend label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+#legend label.sub {
+  margin-left: 18px;
+}
+</style>
+</head>
+
+<body>
+<div id="map"></div>
+<div id="legend"></div>
+
+<script>
+/* =========================
+   MAP INITIALIZATION
+   ========================= */
+const map = new maplibregl.Map({
+  container: 'map',
+  style: {
+    version: 8,
+    sources: {
+      'redsec-map': {
+        type: 'raster',
+        tiles: ['tiles/{z}/{x}/{y}.png'],
+        tileSize: 256
+      },
+      'poi': {
+        type: 'geojson',
+        data: 'data/poi.json'
+      }
+    },
+    layers: [
+      {
+        id: 'redsec-base',
+        type: 'raster',
+        source: 'redsec-map'
+      }
+    ]
+  },
+  center: [0, 0],
+  zoom: 0,
+  minZoom: 0,
+  maxZoom: 6
+});
+
+map.addControl(new maplibregl.NavigationControl());
+
+/* =========================
+   ICON + LAYER LOGIC
+   ========================= */
+map.on('load', async () => {
+
+  const legend = document.getElementById('legend');
+  const catSubMap = {};
+
+  /* ---- LOAD CATEGORY DEFINITIONS ---- */
+  const categoryText = await fetch('data/categories.txt').then(r => r.text());
+  const lines = categoryText.split('\n').filter(l => l.trim() !== '');
+
+  /* ---- COLLECT ALL ICON NAMES ---- */
+  const iconNames = new Set();
+
+  lines.forEach(line => {
+    const [, subcats] = line.split(':');
+    subcats.split(',').forEach(sub =>
+      iconNames.add(sub.trim().toLowerCase())
+    );
+  });
+
+  /* ---- LOAD ICONS BEFORE ADDING ANY LAYERS ---- */
+  for (const icon of iconNames) {
+    await new Promise(resolve => {
+      map.loadImage(`icons/${icon}.png`, (err, image) => {
+        if (!err && !map.hasImage(icon)) {
+          map.addImage(icon, image);
+        }
+        resolve(); // allow missing icons silently
+      });
+    });
+  }
+
+  /* ---- CREATE LAYERS + LEGEND ---- */
+  lines.forEach(line => {
+    const [category, subcats] = line.split(':');
+    const catKey = category.toLowerCase();
+    const catId = catKey.replace(/\s+/g, '-');
+
+    catSubMap[catId] = [];
+
+    /* CATEGORY CHECKBOX */
+    const catLabel = document.createElement('label');
+    catLabel.innerHTML =
+      `<input type="checkbox" data-layer="${catId}" checked> ${category}`;
+    legend.appendChild(catLabel);
+
+    /* SUBCATEGORIES */
+    subcats.split(',').forEach(sub => {
+      const subKey = sub.trim().toLowerCase();
+      const subId = `${catId}-${subKey.replace(/\s+/g, '-')}`;
+      catSubMap[catId].push(subId);
+
+      map.addLayer({
+        id: subId,
+        type: 'symbol',
+        source: 'poi',
+        filter: [
+          'all',
+          ['==', ['get', 'category'], catKey],
+          ['==', ['get', 'subtype'], subKey]
+        ],
+        layout: {
+          'icon-image': subKey,
+          'icon-size': 0.9,
+          'icon-allow-overlap': true
+        }
+      });
+
+      const subLabel = document.createElement('label');
+      subLabel.className = 'sub';
+      subLabel.innerHTML =
+        `<input type="checkbox" data-layer="${subId}" checked> ${sub}`;
+      legend.appendChild(subLabel);
+    });
+  });
+
+  /* ---- CHECKBOX HANDLING ---- */
+  legend.querySelectorAll('input[type="checkbox"]').forEach(cb => {
+    cb.addEventListener('change', e => {
+      const layerId = e.target.dataset.layer;
+      const visible = e.target.checked ? 'visible' : 'none';
+
+      if (map.getLayer(layerId)) {
+        map.setLayoutProperty(layerId, 'visibility', visible);
+      }
+
+      /* Parent toggles children */
+      if (catSubMap[layerId]) {
+        catSubMap[layerId].forEach(subId => {
+          const subCb = legend.querySelector(
+            `input[data-layer="${subId}"]`
+          );
+          if (subCb) {
+            subCb.checked = e.target.checked;
+            if (map.getLayer(subId)) {
+              map.setLayoutProperty(subId, 'visibility', visible);
+            }
+          }
+        });
+      }
+    });
+  });
+});
+
+/* =========================
+   POPUPS
+   ========================= */
+map.on('click', e => {
+  const features = map.queryRenderedFeatures(e.point);
+  if (!features.length) return;
+
+  const f = features[0];
+  if (!f.properties || !f.properties.name) return;
+
+  new maplibregl.Popup()
+    .setLngLat(f.geometry.coordinates)
+    .setHTML(`<strong>${f.properties.name}</strong>`)
+    .addTo(map);
+});
+</script>
+</body>
+</html>

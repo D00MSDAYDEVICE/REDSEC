@@ -18,18 +18,29 @@ html, body {
   background: #000;
 }
 
-#legend {
+/* Sidebar holds the legend and the info button, stacked */
+#sidebar {
   position: absolute;
   top: 10px;
   left: 10px;
+  bottom: 10px;            /* never taller than the window */
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  z-index: 1;
+  pointer-events: none;    /* empty space below doesn't block the map */
+}
+
+#legend {
   background: rgba(255,255,255,0.9);
   padding: 10px;
   font-family: sans-serif;
   font-size: 14px;
   border-radius: 5px;
-  z-index: 1;
-  max-height: 90%;
+  min-height: 0;           /* lets it shrink and scroll inside the flex column */
   overflow-y: auto;
+  pointer-events: auto;
 }
 
 #legend label {
@@ -40,26 +51,91 @@ html, body {
 #legend label.sub {
   margin-left: 18px;
 }
+
+#info-button {
+  flex-shrink: 0;          /* always visible below the legend */
+  padding: 8px 12px;
+  background: #f0f0f0;
+  border-radius: 4px;
+  cursor: pointer;
+  font-family: sans-serif;
+  pointer-events: auto;
+}
+
+#info-window {
+  position: absolute;
+  top: 65%;
+  left: 20%;
+  transform: translate(-50%, -50%);
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+  z-index: 2000;
+  max-width: 400px;
+  max-height: 80%;
+  overflow-y: auto;
+}
+
+#info-close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 24px;
+  cursor: pointer;
+  color: #666;
+  font-weight: bold;
+}
+
+#info-close:hover {
+  color: #000;
+}
+
+#info-window h3 {
+  margin-top: 0;
+}
+
 </style>
 </head>
 
 <body>
 <div id="map"></div>
-<div id="legend"></div>
-
+<div id="sidebar">
+  <div id="legend"></div>
+  <div id="info-button">ℹ Map Info</div>
+</div>
+<div id="info-window" style="display: none;">
+  <div id="info-close">×</div>
+  <h3>REDSEC Interactive Map</h3>  
+  <p>created by JZee & Doomsday<br><br>
+  You can find us on the <a href="https://discord.gg/bfee" target="_blank">Battlefield Easter Egg Community </a> Discord server.
+  </p>
+  <p>Use the legend to toggle items.<br><br>
+  <B>A few notes:</B><br>
+● Vehicles have a 100% spawn rate.<br>
+● Ambulance and police vans are interchangeable.<br>
+● Crates are typically going to spawn the same each round.<br>
+● When locked safes & crates have 2 spawns in a building, one will spawn, the other will not.<br>
+● Intel cases have a high chance of spawning but are not guaranteed.<br>
+● The "Eagle" is an Eagle Container (green smoke locations)<br>
+● "Golden" are spawn locations for golden guns (they have unique names) Hints have been added - Click the icons.
+  </p>  
+</div>
 <script>
 /* =========================
    MAP INITIALIZATION
    ========================= */
 const map = new maplibregl.Map({
   container: 'map',
+  renderWorldCopies: false,
   style: {
     version: 8,
     sources: {
       'redsec-map': {
         type: 'raster',
         tiles: ['tiles/{z}/{x}/{y}.png'],
-        tileSize: 256
+        tileSize: 256,
+        wrap: false
       },
       'poi': {
         type: 'geojson',
@@ -83,13 +159,68 @@ const map = new maplibregl.Map({
 map.addControl(new maplibregl.NavigationControl());
 
 /* =========================
+   INFO WINDOW TOGGLE
+   ========================= */
+const infoButton = document.getElementById('info-button');
+const infoWindow = document.getElementById('info-window');
+const infoClose = document.getElementById('info-close');
+
+infoButton.addEventListener('click', () => {
+  infoWindow.style.display = 
+    infoWindow.style.display === 'none' ? 'block' : 'none';
+});
+
+infoClose.addEventListener('click', () => {
+  infoWindow.style.display = 'none';
+});
+
+/* =========================
+   DEFAULT LEGEND SELECTION
+   Subcategories listed here are ON when the map loads; everything else is OFF.
+   Use the names from categories.txt (case doesn't matter).
+   Set to null to turn everything on.
+   ========================= */
+const DEFAULT_ON = ['Redeploy', 'Ziptower', 'Zipline', 'Phantom', 'Fragment', 'Bunker'];
+
+/* =========================
+   IMAGE OVERLAYS
+   Subcategories listed here are drawn as an image pinned to the map
+   (exact width/height, zooms with the map) instead of as a pin icon.
+   The legend checkbox toggles it like any other item.
+     url     : image file
+     x, y    : CENTRE of the image in map pixels (same numbers as poi.csv)
+     width,
+     height  : how big it should be in map pixels (16384 = full map width).
+               Use the image's real size for 1:1. If you shrink the file
+               itself, keep these the same and it will still cover the same area.
+   ========================= */
+const OVERLAYS = {
+  symbols: { url: 'icons/symbols.png', x: 2863, y: 15512, width: 4819, height: 1535 }
+};
+
+const MAP_PX = 16384;  // must match IMAGE_SIZE in csv2poi.py
+function pxToLngLat(px, py) {
+  const lon = px / MAP_PX * 360 - 180;
+  const lat = 180 / Math.PI * (2 * Math.atan(Math.exp(Math.PI * (1 - 2 * py / MAP_PX))) - Math.PI / 2);
+  return [lon, lat];
+}
+function overlayCorners(o) {
+  const l = o.x - o.width / 2, r = o.x + o.width / 2;
+  const t = o.y - o.height / 2, b = o.y + o.height / 2;
+  // order required by MapLibre: top-left, top-right, bottom-right, bottom-left
+  return [pxToLngLat(l, t), pxToLngLat(r, t), pxToLngLat(r, b), pxToLngLat(l, b)];
+}
+
+/* =========================
    ICON + LAYER LOGIC
    ========================= */
 map.on('load', async () => {
+  const defaultOn = DEFAULT_ON && new Set(DEFAULT_ON.map(s => s.trim().toLowerCase()));
 
   const legend = document.getElementById('legend');
   const catSubMap = {};
-
+  let firstPinLayer = null;
+ 
   /* ---- LOAD CATEGORY DEFINITIONS ---- */
   const categoryText = await fetch('data/categories.txt').then(r => r.text());
   const lines = categoryText.split('\n').filter(l => l.trim() !== '');
@@ -106,6 +237,7 @@ map.on('load', async () => {
 
   /* ---- LOAD ICONS BEFORE ADDING ANY LAYERS ---- */
   for (const icon of iconNames) {
+    if (OVERLAYS[icon]) continue;   // overlays are loaded as images, not icons
     await new Promise(resolve => {
       map.loadImage(`icons/${icon}.png`, (err, image) => {
         if (!err && !map.hasImage(icon)) {
@@ -135,7 +267,25 @@ map.on('load', async () => {
       const subKey = sub.trim().toLowerCase();
       const subId = `${catId}-${subKey.replace(/\s+/g, '-')}`;
       catSubMap[catId].push(subId);
+      const isOn = !defaultOn || defaultOn.has(subKey);
 
+      if (OVERLAYS[subKey]) {
+        const o = OVERLAYS[subKey];
+        map.addSource(subId, {
+          type: 'image',
+          url: o.url,
+          coordinates: overlayCorners(o)
+        });
+        // insert below the first pin layer so pins stay on top
+        map.addLayer({
+          id: subId,
+          type: 'raster',
+          source: subId,
+          layout: { 'visibility': isOn ? 'visible' : 'none' },
+          paint: { 'raster-fade-duration': 0 }
+        }, firstPinLayer || undefined);
+      } else {
+      if (!firstPinLayer) firstPinLayer = subId;
       map.addLayer({
         id: subId,
         type: 'symbol',
@@ -147,18 +297,32 @@ map.on('load', async () => {
         ],
         layout: {
           'icon-image': subKey,
-          'icon-size': 0.9,
-          'icon-allow-overlap': true
+          'icon-size': 0.5,
+          'icon-allow-overlap': true,
+          'visibility': isOn ? 'visible' : 'none'
         }
       });
+      }
 
       const subLabel = document.createElement('label');
       subLabel.className = 'sub';
       subLabel.innerHTML =
-        `<input type="checkbox" data-layer="${subId}" checked> ${sub}`;
+        `<input type="checkbox" data-layer="${subId}"${isOn ? ' checked' : ''}> ${sub}`;
       legend.appendChild(subLabel);
     });
   });
+
+  /* ---- PARENT CHECKBOX STATE ----
+     Checked = all children on, dash (indeterminate) = some on, empty = none */
+  const updateParent = catId => {
+    const parentCb = legend.querySelector(`input[data-layer="${catId}"]`);
+    const kids = catSubMap[catId].map(id =>
+      legend.querySelector(`input[data-layer="${id}"]`));
+    const onCount = kids.filter(k => k && k.checked).length;
+    parentCb.checked = onCount === kids.length;
+    parentCb.indeterminate = onCount > 0 && onCount < kids.length;
+  };
+  Object.keys(catSubMap).forEach(updateParent);
 
   /* ---- CHECKBOX HANDLING ---- */
   legend.querySelectorAll('input[type="checkbox"]').forEach(cb => {
@@ -183,6 +347,11 @@ map.on('load', async () => {
             }
           }
         });
+      } else {
+        /* Child changed: refresh its parent's checked/dash state */
+        const parentId = Object.keys(catSubMap)
+          .find(c => catSubMap[c].includes(layerId));
+        if (parentId) updateParent(parentId);
       }
     });
   });
@@ -205,4 +374,5 @@ map.on('click', e => {
 });
 </script>
 </body>
+
 </html>
