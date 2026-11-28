@@ -44910,8 +44910,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -15.534668,
-          -81.194695
+          18.171387,
+          -48.019324
         ]
       }
     },
@@ -44927,8 +44927,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.98584,
-          -79.030078
+          -28.081055,
+          -49.453843
         ]
       }
     },
@@ -44944,93 +44944,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.322754,
-          -79.851093
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "challenge-phantombox-04",
-      "properties": {
-        "category": "challenges",
-        "subtype": "phantom",
-        "name": "Phantom Crate",
-        "icon": "phantom"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.566895,
-          -82.577596
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "challenge-phantombox-05",
-      "properties": {
-        "category": "challenges",
-        "subtype": "phantom",
-        "name": "Phantom Crate",
-        "icon": "phantom"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.062012,
-          -82.867037
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "challenge-phantombox-06",
-      "properties": {
-        "category": "challenges",
-        "subtype": "phantom",
-        "name": "Phantom Crate",
-        "icon": "phantom"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.673828,
-          -83.364591
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "challenge-phantombox-07",
-      "properties": {
-        "category": "challenges",
-        "subtype": "phantom",
-        "name": "Phantom Crate",
-        "icon": "phantom"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          41.835938,
-          -83.272559
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "challenge-phantombox-08",
-      "properties": {
-        "category": "challenges",
-        "subtype": "phantom",
-        "name": "Phantom Crate",
-        "icon": "phantom"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          17.248535,
-          -84.339148
+          9.140625,
+          -28.902397
         ]
       }
     },
